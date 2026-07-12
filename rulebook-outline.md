@@ -40,7 +40,7 @@ One core rulebook in five parts plus appendices. The card pools are large enough
 |---|---|---|---|---|
 | 5 | **Character Creation** (step-by-step; the sheet walked through; Demeanor/Drive/Reputation; wanted-poster name) | 🔶 | Creation summary + Identity section in `core-mechanics.tex` | **Creation point arrays still placeholders** ([X] skill dots, [Y] alignment dots, caps); derive Strike/Shoot/Defend/Armor/Move/threshold tables per class |
 | 6 | **The Seventeen Peoples** (species lore + traits) | ✅ | `species-rewrite.tex` | Layout only; traits already verbatim |
-| 7 | **The Ten Classes** (class lore intros, archetype overviews, level progression) | 🔶 | Archetype concepts in `class-card-pools.tex`; class lore embedded in faction chapters | Write per-class pages (identity, role, starting stats, threshold values); **name the Monk**; progression table (deck growth ✅ + everything else ⬜) |
+| 7 | **The Ten Classes** (class lore intros, archetype overviews, level progression) | 🔶 | Archetype concepts in `cards/class-card-pools.md`; class lore embedded in faction chapters | Expand per-class pages (identity, role, starting stats, threshold values); progression table (deck growth ✅ + everything else ⬜) |
 | 8 | **Factions & Allegiance** (joining, standing, severance; the Drifter) | ✅ | `faction-card-pools.tex` (Training/Standing/Access), `unaffiliated-rewrite.tex`, severance rules in `core-mechanics.tex` | Consolidate; short "playing X faction" boxes can lift from each chapter's In Play section |
 | 9 | **Deeds** (20 deeds, ranks I–IV) | ✅ | `deeds.tex` | Confirm acquisition track (D1/D2 proposals); tune numbers |
 
@@ -71,7 +71,7 @@ One core rulebook in five parts plus appendices. The card pools are large enough
 
 | Ch. | Chapter | Status | Source | To do |
 |---|---|---|---|---|
-| 25 | **Running the Frontier** (faction play, second-client jobs, factor economy, Reputation stewardship, alignment prices in practice) | 🔶 | "At the Table" in relations doc; GM notes scattered in every chapter; complication menus in core | Consolidate into one GM chapter |
+| 25 | **Running the Frontier** (shared knowledge, character hooks, settlements, law, faction play, travel, planar prices, campaign frames) | ✅ | `lore/running-the-frontier.md`; chapter-specific Player/GM Toolkits | Layout and playtest |
 | 26 | **The Sediment & the Secrets** (GM-true history: the Accord, the Cascade, the seal; per-faction hidden truths incl. the Long Table) | ✅ | Relations rewrite + faction chapter headers | Extract and compile the GM-only layer |
 | 27 | **The Deep Currents** (the Waking Made, the Thinning, the Testing of the Web — campaign spines) | ✅ | Relations rewrite | Expand each into a campaign frame w/ escalation tracks (~2 pages each) |
 | 28 | **Flashpoints** (Redwater, the Succession, Southreach Survey, Corvenwood, the Freeze, etc. as ready-to-run situations) | 🔶 | Fault-line sections everywhere; flashpoint summaries in relations doc | Convert 6–8 into structured scenarios (sides, clocks, maps, stat needs) |
@@ -85,8 +85,8 @@ One core rulebook in five parts plus appendices. The card pools are large enough
 | Ch. | Chapter | Status | Source | To do |
 |---|---|---|---|---|
 | 31 | **Deck Rules Reference** (piles, tags: One-Shot/Reaction/Troop/Stance/Consumable; building & leveling; severance taxonomy) | ✅ | Core + pool file headers | Compile |
-| 32 | **Class Pools Vol. 1** — Zealot, Circuit Rider, Arcanist, Dynast (13 archetypes × 15) | ✅ | `class-pools-vol1.tex` *(delivered with this outline)* | Tuning |
-| 33 | **Class Pools Vol. 2** — Monk, Tinkerer, Sawbones (9 archetypes × 15) | ✅ | `class-pools-vol2.tex` *(delivered with this outline)* | Tuning |
+| 32 | **Class Pools Vol. 1** — Witness, Drifter, Arcanist, Dynast (13 archetypes × 15) | ✅ | `cards/class-pools-vol1.md` | Tuning and scratch-identity pass |
+| 33 | **Class Pools Vol. 2** — Mentalist, Tinkerer, Sawbone (9 archetypes × 15) | ✅ | `cards/class-pools-vol2.md` | Tuning and scratch-identity pass |
 | 34 | **Class Pools Vol. 3** — Captain, Bounty Hunter, Shapeshifter (11 archetypes × 15) | ⬜ | Samples in `class-card-pools.tex` | **Write** (the interrupted remainder of the full-size pass) |
 | 35 | **Species Pools** (17 × 8) | 🔶 | `species-card-pools.tex` (17 × 5 cores) | +3 cards each (51 cards) |
 | 36 | **Faction & Drifter Pools** (10 × 8) | 🔶 | `faction-card-pools.tex` (10 × 5 cores) | +3 cards each (30 cards) |
@@ -122,7 +122,7 @@ One core rulebook in five parts plus appendices. The card pools are large enough
 **Polish (before layout):**
 8. Species/faction pool expansions (Ch. 35–36)
 9. GM section consolidation (Ch. 25–28)
-10. Full consistency pass → glossary (App. E); Heaven/Heavens; the Monk's name
+10. Full consistency pass → glossary (App. E); Heaven/Heavens; canonical class terminology
 11. Downtime/healing/prosthetics systemization (Ch. 13)
 12. Mortality tuning pass once thresholds + weapons exist
 

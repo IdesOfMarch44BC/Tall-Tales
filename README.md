@@ -2,14 +2,14 @@
 
 A tabletop roleplaying game of guns, magic, and factions on a stateless frontier — where the Wild answers territorial claims in proportion to their scale, so nobody makes them, and civilization runs on companies, guilds, registries, and promises instead of nations.
 
-**Status: full manuscript draft.** Lore and mechanics are written; numbers are tuning stakes; canon decisions invented during drafting are flagged in `%` comment headers at the top of each `.tex` file for author sign-off.
+**Status: full manuscript draft.** Lore and mechanics are written in Markdown; numbers remain tuning stakes, and some proposals still await author sign-off.
 
 ## What's Here
 
 | Folder | Contents |
 |---|---|
 | `rulebook-outline.md` | The build map: every chapter, its status, and what remains |
-| `lore/` | The setting: timeline, all nine faction chapters, the seventeen species, inter-faction relations, the unaffiliated |
+| `lore/` | The setting: timeline, all nine faction chapters, the seventeen species, inter-faction relations, the unaffiliated, and `running-the-frontier.md` for player/GM use |
 | `rules/` | Core mechanics (Momentum, skills, the five Alignments, the deck), combat & the wound tables (8 damage types), character creation & class stat lines, equipment, Deeds |
 | `cards/` | The card pools: class archetypes (Vols. 1–2 at full size, Vol. 3 pending), species pools, faction & Drifter pools |
 | `design-notes/` | Working reviews and integration notes from the development pass |
@@ -23,4 +23,4 @@ A tabletop roleplaying game of guns, magic, and factions on a stateless frontier
 
 ## Building the Book
 
-The `.tex` files are chapter manuscripts intended for a single-document build (ordering per `rulebook-outline.md`). A site/PDF pipeline is the next infrastructure step.
+The `.md` files are chapter manuscripts suitable for a future site or single-document build, ordered according to `rulebook-outline.md`.
