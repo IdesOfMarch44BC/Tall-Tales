@@ -23,11 +23,11 @@ Each Discipline names a **governing Alignment** (sometimes two): the plane its t
 
 **Where PL 9–10 live.** A taught Discipline normally culminates at PL 6–8. PL 9 and PL 10 powers are campaign-defining works learned from the world: the name taken from a sovereign creature, the rite completed at a singular site, the invention no school yet knows how to repeat. Build them under the world-learning rules with requirements totaling their PL. They still belong to a Discipline, but they are discoveries rather than standard curriculum and therefore are not printed as automatic rungs in every list.
 
-### Psionic Technique Families
+### The Psionic Disciplines
 
-Psionics uses **nine broad Disciplines**, not one Discipline for every individual trick: Biokinesis, Clairsentience, Hylokinesis, Metapsionics, Pneumaturgy, Psychokinesis, Telepathy, Translocation, and Tychokinesis. Every power in those Disciplines has the **Psychic** tag even when the line does not repeat it.
+Psionics is organized into **nine broad Disciplines**, not one Discipline for every individual trick: Biokinesis, Clairsentience, Hylokinesis, Metapsionics, Pneumaturgy, Psychokinesis, Telepathy, Translocation, and Tychokinesis. Every power in them carries the **Psychic** tag even when its line does not repeat it.
 
-Each psionic Discipline contains five **technique families**, with three powers in each family. The family names organize the list; they are not separate access gates or prerequisites. A character who has opened Telepathy may learn a Mental Domination power without first learning Mind Link, provided they meet the normal PL and Alignment requirements. This keeps psionic access broad enough to feel like a coherent art while powers known keep individual practitioners sharply specialized.
+Each psionic Discipline is a single flat ladder of powers from PL 0 to its capstone, exactly like every other Discipline in this book. They are **not** subdivided into technique families or any other internal track: opening a psionic Discipline opens the whole list, and you learn from it under the normal powers-known, PL, and Alignment rules. A psion's breadth comes from how many Disciplines they open; their focus comes from how few powers they can actually afford to know.
 
 ------------------------------------------------------------------------
 
@@ -530,35 +530,21 @@ These lists use the same power budget and voice as Volumes 1–3: roughly fiftee
 
 *Governing Alignments: Wild and Wyrd.* Biokinesis treats the living body as thought made cellular: strengthened, rewritten, weaponized, repaired, or interrupted. Its changes are Psychic and biological. Wild supplies life and appetite; Wyrd persuades flesh that it has always known another shape.
 
-### Augmented Physiology
-
 - **Augmented Physiology** — PL 0 — Requires None — Stance — Choose Athletics, Knack, or Nimbleness; gain +1 die on that Skill and ignore ordinary fatigue caused by its use.
-- **Adaptive Physiology** — PL 3 — Requires Wild 2 + Wyrd 1 — Stance — Choose two adaptations for the scene: breathe water, see in darkness, climb at full Move, tolerate extreme temperature, or gain +2 dice against poison and disease.
-- **Perfected Physiology** — PL 6 — Requires Wild 3 + Wyrd 3 — Once per scene — For the scene, gain +2 dice on physical rolls, +2" Move, and improve both wound thresholds by 2; afterward become Fatigued.
-
-### Metamorphosis
-
 - **Metamorphosis** — PL 1 — Requires Wild 1 — Reshape one bodily feature for the scene—face, voice, reach, sensory organ, hands, or similar anatomy—and gain +2 dice when the change directly helps.
-- **Fluid Anatomy** — PL 3 — Requires Wild 2 + Wyrd 1 — Reaction — When Grappled, restrained, or struck at a specific body part, flow out of the hold or move the organ aside; escape automatically or cancel one hit.
-- **Total Metamorphosis** — PL 7 — Requires Wild 4 + Wyrd 3 — Once per scene — Become any living form of roughly your mass for the scene, using the closest Form template and retaining your mind, Alignments, and known powers.
-
-### Predatory Morph
-
 - **Predatory Morph** — PL 1 — Requires Wild 1 — Stance — Grow a natural weapon with 3 Attack Dice and Damage 4 Slash, Pierce, or Blunt; choose its form when manifested.
-- **Apex Configuration** — PL 4 — Requires Wild 2 + Wyrd 2 — Stance — Your natural weapons gain +1 Attack Die, +2 Damage, and one adaptation: reach 2", climbing, or scent that reveals creatures within 6".
-- **War-Shape Unbound** — PL 7 — Requires Wild 4 + Wyrd 3 — Once per scene — For the scene, count as Large, gain +2 Defend, +3" Move, and natural attacks with 5 Attack Dice and Damage 6; social subtlety is no longer available.
-
-### Rapid Regeneration
-
 - **Rapid Regeneration** — PL 1 — Requires Wild 1 — Gain Recovery 2; this can affect only you.
-- **Knit the Ruin** — PL 4 — Requires Wild 2 + Wyrd 2 — Reaction — When you suffer a wound, reduce it one severity and end any Bleeding it would cause.
-- **Death Refused** — PL 8 — Requires Wild 4 + Wyrd 4 — Reaction, Once per scene — When you would suffer Death, become Dying and stabilize instead; gain Recovery 5 at the start of your next surge and visibly rebuild what was destroyed.
-
-### Vital Rupture
-
 - **Vital Rupture** — PL 1 — Requires Wyrd 1 — One living target within 6" takes Damage 2 Wild and loses 1 die from its next physical action.
+- **Adaptive Physiology** — PL 3 — Requires Wild 2 + Wyrd 1 — Stance — Choose two adaptations for the scene: breathe water, see in darkness, climb at full Move, tolerate extreme temperature, or gain +2 dice against poison and disease.
+- **Fluid Anatomy** — PL 3 — Requires Wild 2 + Wyrd 1 — Reaction — When Grappled, restrained, or struck at a specific body part, flow out of the hold or move the organ aside; escape automatically or cancel one hit.
 - **Organ Seizure** — PL 3 — Requires Wyrd 2 + Wild 1 — One living target within 10" saves or takes Damage 3 Wild, becomes Prone, and cannot take Reactions until its next surge.
+- **Apex Configuration** — PL 4 — Requires Wild 2 + Wyrd 2 — Stance — Your natural weapons gain +1 Attack Die, +2 Damage, and one adaptation: reach 2", climbing, or scent that reveals creatures within 6".
+- **Knit the Ruin** — PL 4 — Requires Wild 2 + Wyrd 2 — Reaction — When you suffer a wound, reduce it one severity and end any Bleeding it would cause.
+- **Perfected Physiology** — PL 6 — Requires Wild 3 + Wyrd 3 — Once per scene — For the scene, gain +2 dice on physical rolls, +2" Move, and improve both wound thresholds by 2; afterward become Fatigued.
+- **Total Metamorphosis** — PL 7 — Requires Wild 4 + Wyrd 3 — Once per scene — Become any living form of roughly your mass for the scene, using the closest Form template and retaining your mind, Alignments, and known powers.
+- **War-Shape Unbound** — PL 7 — Requires Wild 4 + Wyrd 3 — Once per scene — For the scene, count as Large, gain +2 Defend, +3" Move, and natural attacks with 5 Attack Dice and Damage 6; social subtlety is no longer available.
 - **Biological Unmaking** — PL 7 — Requires Wyrd 4 + Wild 3 — Once per scene — A living target within 10" saves. On failure, it takes Damage 7 Wild and suffers –2 dice on physical rolls for the scene; on success, it takes Damage 4 Wild without the penalty.
+- **Death Refused** — PL 8 — Requires Wild 4 + Wyrd 4 — Reaction, Once per scene — When you would suffer Death, become Dying and stabilize instead; gain Recovery 5 at the start of your next surge and visibly rebuild what was destroyed.
 
 ------------------------------------------------------------------------
 
@@ -566,71 +552,43 @@ These lists use the same power budget and voice as Volumes 1–3: roughly fiftee
 
 *Governing Alignments: Wyrd and Machine.* Clairsentience extends perception across time, distance, complexity, and deception. These powers do not create facts; they find the facts already present in the world's wake. Wyrd reaches beyond the immediate. Machine orders what returns into something a mind can use.
 
-### Echo Reading
-
 - **Echo Reading** — PL 0 — Requires None — Touch an object or place and learn its strongest recent emotional impression and roughly when it occurred.
-- **Deep Echo** — PL 3 — Requires Wyrd 2 + Machine 1 — Reconstruct one past scene at your location as sensory impressions; ask the GM three factual questions about what happened and receive true answers.
-- **The Past Opens** — PL 6 — Requires Wyrd 3 + Machine 3 — Once per scene — Experience one past hour at the site as though present and unseen. You may inspect freely, but the past cannot be changed and something sensitive to observation may notice you looking back.
-
-### Future Sight
-
 - **Future Sight** — PL 1 — Requires Wyrd 1 — Reaction — When a creature declares an action you can perceive, learn its intended target and effect; one affected ally gains +2 Defend or +2 dice on a save against it.
-- **Branch Sight** — PL 4 — Requires Wyrd 2 + Machine 2 — Ask the GM for the two most likely consequences of one declared plan before it begins; your side gains +1 die on actions taken to secure either branch.
-- **The Hour Already Lived** — PL 7 — Requires Wyrd 4 + Machine 3 — Once per scene — Declare that you foresaw this scene. Until it ends, once per round force any one roll you can perceive to be rerolled; keep the result you choose.
-
-### Hypercognition
-
 - **Hypercognition** — PL 1 — Requires Machine 1 — Gain +2 dice on one Investigate or Study roll and complete in one action analysis that would ordinarily take minutes.
-- **Combat Calculus** — PL 3 — Requires Machine 2 + Wyrd 1 — Stance — After observing one round, learn every visible enemy's Attack Dice, Defend, Move, and wound thresholds; allies gain +1 die when acting on your announced calculations.
-- **Impossible Deduction** — PL 6 — Requires Machine 3 + Wyrd 3 — Once per scene — Name a conclusion the available evidence could support. The GM tells you whether it is true and gives the shortest valid chain of reasoning from evidence you possess.
-
-### Remote Viewing
-
 - **Remote Viewing** — PL 1 — Requires Wyrd 1 — Perceive from a point within 20" that you can name or clearly imagine until your next surge; through your body you are Blinded and cannot use Reactions while it lasts, and you may end it freely.
-- **Far Witness** — PL 4 — Requires Wyrd 2 + Machine 2 — Once per scene — View a known person, object, or location anywhere within the region for one round; a supernatural ward may oppose the attempt.
-- **World Window** — PL 7 — Requires Wyrd 4 + Machine 3 — Once per scene — Open an invisible viewpoint at any place you have visited and perceive through it for the scene with all your senses; effects cannot pass through the window.
-
-### True Sight
-
 - **True Sight** — PL 1 — Requires Machine 1 — Until your next surge, illusions, disguises, and invisible creatures within 10" are outlined to you as false, changed, or present.
+- **Deep Echo** — PL 3 — Requires Wyrd 2 + Machine 1 — Reconstruct one past scene at your location as sensory impressions; ask the GM three factual questions about what happened and receive true answers.
+- **Combat Calculus** — PL 3 — Requires Machine 2 + Wyrd 1 — Stance — After observing one round, learn every visible enemy's Attack Dice, Defend, Move, and wound thresholds; allies gain +1 die when acting on your announced calculations.
+- **Branch Sight** — PL 4 — Requires Wyrd 2 + Machine 2 — Ask the GM for the two most likely consequences of one declared plan before it begins; your side gains +1 die on actions taken to secure either branch.
+- **Far Witness** — PL 4 — Requires Wyrd 2 + Machine 2 — Once per scene — View a known person, object, or location anywhere within the region for one round; a supernatural ward may oppose the attempt.
 - **Pierce the Veil** — PL 4 — Requires Machine 2 + Wyrd 2 — Stance — See through illusions, supernatural concealment, and transformed appearances; learn the governing Alignment of each effect you perceive.
+- **The Past Opens** — PL 6 — Requires Wyrd 3 + Machine 3 — Once per scene — Experience one past hour at the site as though present and unseen. You may inspect freely, but the past cannot be changed and something sensitive to observation may notice you looking back.
+- **Impossible Deduction** — PL 6 — Requires Machine 3 + Wyrd 3 — Once per scene — Name a conclusion the available evidence could support. The GM tells you whether it is true and gives the shortest valid chain of reasoning from evidence you possess.
+- **The Hour Already Lived** — PL 7 — Requires Wyrd 4 + Machine 3 — Once per scene — Declare that you foresaw this scene. Until it ends, once per round force any one roll you can perceive to be rerolled; keep the result you choose.
+- **World Window** — PL 7 — Requires Wyrd 4 + Machine 3 — Once per scene — Open an invisible viewpoint at any place you have visited and perceive through it for the scene with all your senses; effects cannot pass through the window.
 - **Nothing Hidden** — PL 8 — Requires Machine 4 + Wyrd 4 — Once per scene — For the scene, your sight ignores distance within the site, physical obstruction, invisibility, disguise, and illusion. The GM identifies every concealed creature, door, working, and observer that could matter.
 
 ------------------------------------------------------------------------
 
 ## Hylokinesis
 
-*Governing Alignments: Machine and Wyrd.* Hylokinesis governs nonliving matter directly: producing it, reshaping it, converting its substance, granting it motion, and ending its cohesion. Machine specifies structure. Wyrd convinces matter that specification is more authoritative than history. You may maintain only one creation from each Matter Manifestation power at a time; using the same named power again dismisses its previous creation unless that power made it permanent.
-
-### Matter Manifestation
+*Governing Alignments: Machine and Wyrd.* Hylokinesis governs nonliving matter directly: producing it, reshaping it, converting its substance, granting it motion, and ending its cohesion. Machine specifies structure. Wyrd convinces matter that specification is more authoritative than history. You may maintain only one thought-made object at a time from this Discipline's creation powers—*Matter Manifestation*, *Provision from Thought*, and *Ex Nihilo Works*—and using another dismisses the previous one unless it was made permanent.
 
 - **Matter Manifestation** — PL 0 — Requires None — Create one simple, handheld mundane object. It lasts for the scene, cannot serve as money or rare material, and vanishes if broken.
-- **Provision from Thought** — PL 3 — Requires Machine 2 + Wyrd 1 — Manifest up to a crate's volume of mundane material or a complete set of proper tools; it lasts until the next rest.
-- **Ex Nihilo Works** — PL 7 — Requires Machine 4 + Wyrd 3 — Once per scene — Manifest a bridge, barricade, vehicle-sized object, or similar construction of ordinary material; it is permanent unless its existence would create wealth, in which case it lasts one day.
-
-### Material Sculpting
-
 - **Material Sculpting** — PL 1 — Requires Machine 1 — Reshape up to a door's volume of nonliving material by touch without changing its substance.
-- **Structural Edit** — PL 3 — Requires Machine 2 + Wyrd 1 — Open, seal, reinforce, or collapse one wall, floor, support, or object within 6"; affected structures use Durability 6 if resistance matters.
-- **Landscape as Clay** — PL 6 — Requires Machine 3 + Wyrd 3 — Once per scene — Reshape a 10-inch area of stone, earth, metal, or similar matter into walls, trenches, stairs, or open passage.
-
-### Material Transmutation
-
 - **Material Transmutation** — PL 1 — Requires Machine 1 — Convert one handheld quantity of mundane nonliving material into another common material until the scene ends.
-- **Living Alloy** — PL 4 — Requires Machine 2 + Wyrd 2 — Give one weapon, suit of armor, or object a new substance for the scene; grant +1 Damage, improve Armor by 1, or make it immune to one environmental harm.
-- **Perfect Conversion** — PL 8 — Requires Machine 4 + Wyrd 4 — Once per scene — Permanently transmute up to a human-sized mass of nonliving matter into another substance you have personally studied. Rare materials require equally rare source matter.
-
-### Object Animation
-
 - **Object Animation** — PL 1 — Requires Wyrd 1 — One unattended object moves up to 6", manipulates itself, or performs one simple task before becoming still.
-- **Many Hands, No Bodies** — PL 4 — Requires Wyrd 2 + Machine 2 — Stance — Animate up to four nearby objects; together they perform skilled mundane work using your relevant Skill dice or fight as one troop with Durability 4, Attack 3, Defend 1, Move 4".
-- **The House Wakes** — PL 7 — Requires Wyrd 4 + Machine 3 — Once per scene — Animate a room or structure for the scene. Each round it may move occupants 4", create or close a passage, or attack every enemy inside for Damage 3 Blunt.
-
-### Disintegrate
-
 - **Disintegrate** — PL 1 — Requires Machine 1 — One object within 6" takes Damage 4, bypassing Armor; a creature instead takes Damage 2 Machine.
+- **Provision from Thought** — PL 3 — Requires Machine 2 + Wyrd 1 — Manifest up to a crate's volume of mundane material or a complete set of proper tools; it lasts until the next rest.
+- **Structural Edit** — PL 3 — Requires Machine 2 + Wyrd 1 — Open, seal, reinforce, or collapse one wall, floor, support, or object within 6"; affected structures use Durability 6 if resistance matters.
 - **Unmake the Armor** — PL 3 — Requires Machine 2 + Wyrd 1 — One target within 10" worsens its Armor save by 2 for the scene; an unattended object of similar mass turns to dust.
+- **Living Alloy** — PL 4 — Requires Machine 2 + Wyrd 2 — Give one weapon, suit of armor, or object a new substance for the scene; grant +1 Damage, improve Armor by 1, or make it immune to one environmental harm.
+- **Many Hands, No Bodies** — PL 4 — Requires Wyrd 2 + Machine 2 — Stance — Animate up to four nearby objects; together they perform skilled mundane work using your relevant Skill dice or fight as one troop with Durability 4, Attack 3, Defend 1, Move 4".
+- **Landscape as Clay** — PL 6 — Requires Machine 3 + Wyrd 3 — Once per scene — Reshape a 10-inch area of stone, earth, metal, or similar matter into walls, trenches, stairs, or open passage.
+- **Ex Nihilo Works** — PL 7 — Requires Machine 4 + Wyrd 3 — Once per scene — Manifest a bridge, barricade, vehicle-sized object, or similar construction of ordinary material; it is permanent unless its existence would create wealth, in which case it lasts one day.
+- **The House Wakes** — PL 7 — Requires Wyrd 4 + Machine 3 — Once per scene — Animate a room or structure for the scene. Each round it may move occupants 4", create or close a passage, or attack every enemy inside for Damage 3 Blunt.
 - **Dust** — PL 7 — Requires Machine 4 + Wyrd 3 — Once per scene — Choose one creature or object within 10". An unattended mundane object is destroyed. A creature, attended object, or sovereign object saves; on failure it takes Damage 8 Machine with AP 3, and on success it takes Damage 4 Machine.
+- **Perfect Conversion** — PL 8 — Requires Machine 4 + Wyrd 4 — Once per scene — Permanently transmute up to a human-sized mass of nonliving matter into another substance you have personally studied. Rare materials require equally rare source matter.
 
 ------------------------------------------------------------------------
 
@@ -638,35 +596,21 @@ These lists use the same power budget and voice as Volumes 1–3: roughly fiftee
 
 *Governing Alignments: Machine and Wyrd.* Metapsionics manipulates powers rather than their subjects: storing manifestations, changing their timing and scale, suppressing them, and hiding the fact that thought acted at all. Machine supplies formal control. Wyrd reaches inside another impossibility without setting it off. You may maintain only one stored imprint created by Imprint Power or Deep Imprint at a time; making another dismisses the first.
 
-### Imprint Power
-
 - **Imprint Power** — PL 0 — Requires None — After using a PL 1 or lower power, imprint it in a handheld focus until the encounter ends. Once, use that power from the focus without paying its Alignment requirement; it still costs Momentum. Hold only one imprint.
-- **Deep Imprint** — PL 3 — Requires Machine 2 + Wyrd 1 — Imprint a PL 3 or lower power you use. The imprint lasts for the session and may be triggered once by any willing bearer who knows what it contains, without paying its requirement but at its normal Momentum cost.
-- **Living Imprint** — PL 6 — Requires Machine 3 + Wyrd 3 — Once per scene — Place one PL 5 or lower power you know into a willing creature for the session. They may use it once with your ratings and its normal requirement, after which the imprint ends.
-
-### Instant Manifestation
-
 - **Instant Manifestation** — PL 1 — Requires Machine 1 — Free, once per surge — The next PL 1 or lower power you use this surge costs no Momentum.
-- **Thought Before Action** — PL 4 — Requires Machine 2 + Wyrd 2 — Reaction — Use one PL 3 or lower power you know when its effect could answer the triggering action; pay its requirement normally.
-- **No Interval** — PL 7 — Requires Machine 4 + Wyrd 3 — Once per scene — Until your next surge, you may use any power you know as a Reaction when its effect applies; each still spends its requirement, and no named power may be used this way more than once.
-
-### Power Amplification
-
 - **Power Amplification** — PL 1 — Requires Wyrd 1 — Add +1 Damage, +1 die, or +2" to one appropriate numerical effect of the next Psychic power you use this surge.
-- **Resonant Amplification** — PL 4 — Requires Wyrd 2 + Machine 2 — Double one printed distance, duration, number of targets, or area in a PL 4 or lower Psychic power you use now; do not double Damage or Recovery.
-- **Overwhelming Manifestation** — PL 7 — Requires Wyrd 4 + Machine 3 — Once per scene — Maximize one PL 6 or lower Psychic power: add +2 Damage or dice, double its distance or area, and impose –2 dice on saves against it.
-
-### Power Nullification
-
 - **Power Nullification** — PL 1 — Requires Machine 1 — Reaction — Reduce one Psychic effect's hits, successes, Damage, or granted dice by 1 as it resolves.
-- **Disjoin Power** — PL 4 — Requires Machine 2 + Wyrd 2 — End one ongoing PL 4 or lower power within 10"; a higher-PL effect instead loses one numerical benefit of your choice until your next surge.
-- **The Empty Field** — PL 8 — Requires Machine 4 + Wyrd 4 — Once per scene — Suppress all Psychic powers and links in a 6-inch radius for one round. Imprints go dormant rather than ending; this power suppresses itself last.
-
-### Veiled Manifestation
-
 - **Veiled Manifestation** — PL 1 — Requires Wyrd 1 — Stance — Observers cannot identify you as the source of your Psychic powers without succeeding on an opposed Perceive or Clairsentience effect.
+- **Deep Imprint** — PL 3 — Requires Machine 2 + Wyrd 1 — Imprint a PL 3 or lower power you use. The imprint lasts for the session and may be triggered once by any willing bearer who knows what it contains, without paying its requirement but at its normal Momentum cost.
 - **No Ripple** — PL 3 — Requires Wyrd 2 + Machine 1 — Until your next surge, one Psychic power you use produces no visible, audible, emotional, or supernatural signature; its targets know only what the effect itself reveals.
+- **Thought Before Action** — PL 4 — Requires Machine 2 + Wyrd 2 — Reaction — Use one PL 3 or lower power you know when its effect could answer the triggering action; pay its requirement normally.
+- **Resonant Amplification** — PL 4 — Requires Wyrd 2 + Machine 2 — Double one printed distance, duration, number of targets, or area in a PL 4 or lower Psychic power you use now; do not double Damage or Recovery.
+- **Disjoin Power** — PL 4 — Requires Machine 2 + Wyrd 2 — End one ongoing PL 4 or lower power within 10"; a higher-PL effect instead loses one numerical benefit of your choice until your next surge.
+- **Living Imprint** — PL 6 — Requires Machine 3 + Wyrd 3 — Once per scene — Place one PL 5 or lower power you know into a willing creature for the session. They may use it once with your ratings and its normal requirement, after which the imprint ends.
 - **Unseen Cause** — PL 6 — Requires Wyrd 3 + Machine 3 — Once per scene — For the scene, your Psychic powers cannot be traced, reflected, or used to designate you as quarry or a named target; even affected creatures must locate you by ordinary means.
+- **No Interval** — PL 7 — Requires Machine 4 + Wyrd 3 — Once per scene — Until your next surge, you may use any power you know as a Reaction when its effect applies; each still spends its requirement, and no named power may be used this way more than once.
+- **Overwhelming Manifestation** — PL 7 — Requires Wyrd 4 + Machine 3 — Once per scene — Maximize one PL 6 or lower Psychic power: add +2 Damage or dice, double its distance or area, and impose –2 dice on saves against it.
+- **The Empty Field** — PL 8 — Requires Machine 4 + Wyrd 4 — Once per scene — Suppress all Psychic powers and links in a 6-inch radius for one round. Imprints go dormant rather than ending; this power suppresses itself last.
 
 ------------------------------------------------------------------------
 
@@ -674,35 +618,21 @@ These lists use the same power budget and voice as Volumes 1–3: roughly fiftee
 
 *Governing Alignments: Wyrd and Shadow.* Pneumaturgy handles the animating self apart from flesh: waking a vacant body, binding a spirit, entering a living vessel, preserving a soul, or attacking the soul directly. Wyrd crosses the seam. Shadow decides who has standing on either side.
 
-### Corpse Awakening
-
 - **Corpse Awakening** — PL 0 — Requires None — Troop — Awaken one intact corpse for the scene: Durability 2, Attack 2, Defend 0, Move 3"; it follows one simple spoken instruction. Maintain only one corpse awakened by this power at a time.
-- **Cadaver Servitor** — PL 3 — Requires Shadow 2 + Wyrd 1 — Awaken one corpse as a troop with Durability 5, Attack 3, Defend 1, Move 4"; it retains one mundane Skill it knew in life and lasts until destroyed or released. Maintain only one Cadaver Servitor at a time.
-- **Wake the Field** — PL 6 — Requires Shadow 3 + Wyrd 3 — Once per scene — Awaken up to six available corpses as Corpse Awakening troops; they act together for 1 Momentum and return to rest when the scene ends.
-
-### Spirit Binding
-
 - **Spirit Binding** — PL 1 — Requires Wyrd 1 — Bind one nearby disembodied spirit to remain and converse until your next surge; it may save if unwilling.
-- **The Sealed Name** — PL 4 — Requires Wyrd 2 + Shadow 2 — Bind a spirit into a named object for the scene. It cannot depart or use powers beyond the vessel, and you may compel one truthful answer each surge.
-- **Court of Bottled Voices** — PL 7 — Requires Wyrd 4 + Shadow 3 — Once per scene — Call and bind up to five spirits connected to the site. For the scene they answer questions, reveal invisible beings, and may combine into one troop with Durability 6, Attack 4, Defend 2, Move 6".
-
-### Soul Invasion
-
 - **Soul Invasion** — PL 1 — Requires Shadow 1 — One living target within 6" saves; on failure, perceive through its senses until your next surge and prevent it from taking Reactions.
-- **The Passenger** — PL 4 — Requires Shadow 2 + Wyrd 2 — One living target saves. On failure, enter it until your next surge and choose its movement and one non-harmful action; your body is Disabled while absent.
-- **The Open Door** — PL 8 — Requires Shadow 4 + Wyrd 4 — Once per scene — One living target saves. On failure, possess it for the scene, using its body and your mind; it repeats the save at the end of each of its surges, expelling you on success. Your unattended body is Prone and Disabled.
-
-### Soul Vessel
-
 - **Soul Vessel** — PL 1 — Requires Machine 1 — Store one willing creature's memory, dream, or message in an object; a willing touch retrieves a perfect copy.
-- **Second Harbor** — PL 4 — Requires Machine 2 + Wyrd 2 — Reaction — When a mental effect would control, erase, or displace you, move your awareness into a prepared vessel within 10" until your next surge and negate the effect; your body is Disabled meanwhile.
-- **House the Departed** — PL 7 — Requires Machine 4 + Wyrd 3 — Once per scene — Capture the soul of a creature that died since your last surge in a prepared vessel. It remains itself, may communicate, and can later be restored only by a power capable of returning the dead.
-
-### Soul Withering
-
 - **Soul Withering** — PL 1 — Requires Shadow 1 — One creature within 10" takes Damage 2 Shadow and loses 1 die from its next Alignment save.
+- **Cadaver Servitor** — PL 3 — Requires Shadow 2 + Wyrd 1 — Awaken one corpse as a troop with Durability 5, Attack 3, Defend 1, Move 4"; it retains one mundane Skill it knew in life and lasts until destroyed or released. Maintain only one Cadaver Servitor at a time.
 - **Fray the Silver Thread** — PL 3 — Requires Shadow 2 + Wyrd 1 — One creature takes Damage 3 Shadow; if wounded, it takes Damage 1 Shadow, bypassing saves, the next time it uses a Psychic power before your next surge.
+- **The Sealed Name** — PL 4 — Requires Wyrd 2 + Shadow 2 — Bind a spirit into a named object for the scene. It cannot depart or use powers beyond the vessel, and you may compel one truthful answer each surge.
+- **The Passenger** — PL 4 — Requires Shadow 2 + Wyrd 2 — One living target saves. On failure, enter it until your next surge and choose its movement and one non-harmful action; your body is Disabled while absent.
+- **Second Harbor** — PL 4 — Requires Machine 2 + Wyrd 2 — Reaction — When a mental effect would control, erase, or displace you, move your awareness into a prepared vessel within 10" until your next surge and negate the effect; your body is Disabled meanwhile.
+- **Wake the Field** — PL 6 — Requires Shadow 3 + Wyrd 3 — Once per scene — Awaken up to six available corpses as Corpse Awakening troops; they act together for 1 Momentum and return to rest when the scene ends.
+- **Court of Bottled Voices** — PL 7 — Requires Wyrd 4 + Shadow 3 — Once per scene — Call and bind up to five spirits connected to the site. For the scene they answer questions, reveal invisible beings, and may combine into one troop with Durability 6, Attack 4, Defend 2, Move 6".
+- **House the Departed** — PL 7 — Requires Machine 4 + Wyrd 3 — Once per scene — Capture the soul of a creature that died since your last surge in a prepared vessel. It remains itself, may communicate, and can later be restored only by a power capable of returning the dead.
 - **Unthread the Self** — PL 7 — Requires Shadow 4 + Wyrd 3 — Once per scene — One creature within 10" saves. On failure, it takes Damage 6 Shadow, cannot use Psychic powers for the scene, and loses one personal memory of the GM's choice until restored; on success it takes Damage 3 Shadow.
+- **The Open Door** — PL 8 — Requires Shadow 4 + Wyrd 4 — Once per scene — One living target saves. On failure, possess it for the scene, using its body and your mind; it repeats the save at the end of each of its surges, expelling you on success. Your unattended body is Prone and Disabled.
 
 ------------------------------------------------------------------------
 
@@ -710,35 +640,21 @@ These lists use the same power budget and voice as Volumes 1–3: roughly fiftee
 
 *Governing Alignments: Wyrd and Machine.* Psychokinesis applies thought as force: precise manipulation, violent impulse, defensive vectors, altered gravity, and stable constructs. Wyrd supplies intention without contact. Machine gives that intention direction, load, and shape.
 
-### Telekinetic Manipulation
-
 - **Telekinetic Manipulation** — PL 0 — Requires None — Move one unattended object up to human size within 10" by 6", or perform a simple manipulation at that distance.
-- **Fine Control** — PL 3 — Requires Wyrd 2 + Machine 1 — Perform a Knack or Nimbleness task within 20" using telekinesis and +2 dice; you may manipulate several small objects as two hands would.
-- **Hundred Hands** — PL 6 — Requires Wyrd 3 + Machine 3 — Once per scene — For the scene, manipulate any number of unattended objects within 10"; once per surge, Move, restrain, or make one Skill action through them for 0 Momentum.
-
-### Telekinetic Burst
-
 - **Telekinetic Burst** — PL 1 — Requires Wyrd 1 — One target within 10" takes Damage 3 Blast and is pushed 2".
-- **Crushing Wave** — PL 4 — Requires Wyrd 2 + Machine 2 — Every enemy in a 6-inch cone takes Damage 4 Blast and is pushed to the cone's edge or becomes Prone if it cannot move.
-- **Cataclysmic Impulse** — PL 7 — Requires Wyrd 4 + Machine 3 — Once per scene — Choose a point within 12"; every other creature in a 6-inch burst takes Damage 6 Blast and is thrown 6" directly away.
-
-### Kinetic Barrier
-
 - **Kinetic Barrier** — PL 1 — Requires Machine 1 — Reaction — One creature within 6" gains +2 Defend against a triggering attack; if already hit, remove one hit instead.
-- **Mobile Bulwark** — PL 4 — Requires Machine 2 + Wyrd 2 — Stance — You and allies within 4" gain +1 Defend against ranged attacks, and hostile forced movement entering or leaving the area is reduced by 2".
-- **Absolute Vector** — PL 7 — Requires Machine 4 + Wyrd 3 — Once per scene — Until your next surge, choose one direction. Attacks, projectiles, movement, and forced movement cannot cross a 6-inch line against that direction.
-
-### Gravitic Control
-
 - **Gravitic Control** — PL 1 — Requires Wyrd 1 — Choose one creature within 10" until your next surge: make it light for +2" Move and +2 dice on jumping, or heavy for –2" Move and immunity to forced movement.
-- **Gravity Well** — PL 4 — Requires Wyrd 2 + Machine 2 — Create a 4-inch burst within 10" for one round. Enemies treat it as difficult ground and, on entering or beginning a surge there, save or become Prone at its center.
-- **Invert the Horizon** — PL 8 — Requires Wyrd 4 + Machine 4 — Once per scene — For one round, choose the direction of gravity in a 10-inch area. Unanchored creatures and objects fall 10" that way and take falling Damage normally.
-
-### Force Construct
-
 - **Force Construct** — PL 1 — Requires Machine 1 — Manifest one simple force object for the scene: proper tools, a shield granting +1 Defend, or a mind blade or mind gun using the profile in *Equipment*.
+- **Fine Control** — PL 3 — Requires Wyrd 2 + Machine 1 — Perform a Knack or Nimbleness task within 20" using telekinesis and +2 dice; you may manipulate several small objects as two hands would.
 - **Persistent Construct** — PL 3 — Requires Machine 2 + Wyrd 1 — Create a free-standing force object with Durability 5: a 4-inch bridge, wall, cage, platform, or similarly simple structure lasting for the scene.
+- **Crushing Wave** — PL 4 — Requires Wyrd 2 + Machine 2 — Every enemy in a 6-inch cone takes Damage 4 Blast and is pushed to the cone's edge or becomes Prone if it cannot move.
+- **Mobile Bulwark** — PL 4 — Requires Machine 2 + Wyrd 2 — Stance — You and allies within 4" gain +1 Defend against ranged attacks, and hostile forced movement entering or leaving the area is reduced by 2".
+- **Gravity Well** — PL 4 — Requires Wyrd 2 + Machine 2 — Create a 4-inch burst within 10" for one round. Enemies treat it as difficult ground and, on entering or beginning a surge there, save or become Prone at its center.
+- **Hundred Hands** — PL 6 — Requires Wyrd 3 + Machine 3 — Once per scene — For the scene, manipulate any number of unattended objects within 10"; once per surge, Move, restrain, or make one Skill action through them for 0 Momentum.
+- **Cataclysmic Impulse** — PL 7 — Requires Wyrd 4 + Machine 3 — Once per scene — Choose a point within 12"; every other creature in a 6-inch burst takes Damage 6 Blast and is thrown 6" directly away.
+- **Absolute Vector** — PL 7 — Requires Machine 4 + Wyrd 3 — Once per scene — Until your next surge, choose one direction. Attacks, projectiles, movement, and forced movement cannot cross a 6-inch line against that direction.
 - **Citadel of Thought** — PL 7 — Requires Machine 4 + Wyrd 3 — Once per scene — Create a 6-inch force structure for the scene with Armor 4+ and Durability 10. Choose walls and openings when manifested; allies inside gain +2 Defend.
+- **Invert the Horizon** — PL 8 — Requires Wyrd 4 + Machine 4 — Once per scene — For one round, choose the direction of gravity in a 10-inch area. Unanchored creatures and objects fall 10" that way and take falling Damage normally.
 
 ------------------------------------------------------------------------
 
@@ -746,34 +662,20 @@ These lists use the same power budget and voice as Volumes 1–3: roughly fiftee
 
 *Governing Alignment: Wyrd (with Heavens for connection and defense, Shadow for intrusion).* Telepathy joins minds, fortifies them, edits perception, inflicts psychic injury, and imposes intent. The same open door can be hospitality or invasion; the required Alignments say which one this power is.
 
-### Mind Link
-
 - **Mind Link** — PL 0 — Requires None — Link with one willing creature you can see for the scene; communicate silently and know each other's direction and emotional state. Maintain only one Mind Link at a time.
-- **Linked Chorus** — PL 3 — Requires Wyrd 2 + Heavens 1 — Link your whole side for the scene. Members communicate silently at any distance within the site and may Aid one another without speaking.
-- **No Distance Between Us** — PL 6 — Requires Wyrd 3 + Heavens 3 — Once per scene — For the session, link up to five willing creatures anywhere in the region; share speech, one chosen sense, and an immediate warning when any member becomes Dying.
-
-### Mental Fortress
-
 - **Mental Fortress** — PL 1 — Requires Heavens 1 — Stance — Gain +2 dice on saves against fear, deception, Psychic effects, and mental control; you cannot be surprised by a mind you can perceive.
-- **Shared Fortress** — PL 4 — Requires Heavens 2 + Wyrd 2 — Stance — Allies within 6" gain +2 dice on saves against Psychic effects and mental control; when one succeeds, another affected ally may use the same success result.
-- **The Closed City** — PL 7 — Requires Heavens 4 + Wyrd 3 — Once per scene — For the scene, you and allies within 6" are immune to unwanted mind reading, emotional control, possession, and Psychic illusions; hostile Telepathy cannot cross the boundary.
-
-### Phantom Perception
-
 - **Phantom Perception** — PL 1 — Requires Wyrd 1 — One creature within 10" saves or perceives one brief false image, sound, smell, taste, or touch that you describe.
-- **Shared Hallucination** — PL 4 — Requires Wyrd 2 + Shadow 2 — Creatures in a 4-inch burst save or share one convincing scene-sized illusion until your next surge; direct contradiction grants another save.
-- **The World Behind the Eyes** — PL 7 — Requires Wyrd 4 + Shadow 3 — Once per scene — One creature saves. On failure, it inhabits a complete false scene for one round, becoming Prone and Disabled in reality; when it returns, you may leave one false memory of what occurred.
-
-### Psychic Crush
-
 - **Psychic Crush** — PL 1 — Requires Wyrd 1 — One creature within 10" takes Damage 2 Wyrd and loses 1 die from its next action.
-- **Neural Spike** — PL 3 — Requires Wyrd 2 + Shadow 1 — One creature takes Damage 3 Wyrd; if wounded, it becomes Dazed and cannot use Reactions until its next surge.
-- **Mindbreak** — PL 7 — Requires Wyrd 4 + Shadow 3 — Once per scene — One creature within 10" saves. On failure, it takes Damage 6 Wyrd and becomes Disabled until the end of its next surge; on success, it takes Damage 3 Wyrd.
-
-### Mental Domination
-
 - **Mental Domination** — PL 1 — Requires Shadow 1 — One creature within 6" saves. On failure, it either moves 2" where you direct or loses its next Reaction, your choice.
+- **Linked Chorus** — PL 3 — Requires Wyrd 2 + Heavens 1 — Link your whole side for the scene. Members communicate silently at any distance within the site and may Aid one another without speaking.
+- **Neural Spike** — PL 3 — Requires Wyrd 2 + Shadow 1 — One creature takes Damage 3 Wyrd; if wounded, it becomes Dazed and cannot use Reactions until its next surge.
+- **Shared Fortress** — PL 4 — Requires Heavens 2 + Wyrd 2 — Stance — Allies within 6" gain +2 dice on saves against Psychic effects and mental control; when one succeeds, another affected ally may use the same success result.
+- **Shared Hallucination** — PL 4 — Requires Wyrd 2 + Shadow 2 — Creatures in a 4-inch burst save or share one convincing scene-sized illusion until your next surge; direct contradiction grants another save.
 - **Imperative** — PL 4 — Requires Wyrd 2 + Shadow 2 — Speak one short command to a creature within 10". It saves; on failure, it spends its next action obeying, but will not directly kill itself.
+- **No Distance Between Us** — PL 6 — Requires Wyrd 3 + Heavens 3 — Once per scene — For the session, link up to five willing creatures anywhere in the region; share speech, one chosen sense, and an immediate warning when any member becomes Dying.
+- **The Closed City** — PL 7 — Requires Heavens 4 + Wyrd 3 — Once per scene — For the scene, you and allies within 6" are immune to unwanted mind reading, emotional control, possession, and Psychic illusions; hostile Telepathy cannot cross the boundary.
+- **The World Behind the Eyes** — PL 7 — Requires Wyrd 4 + Shadow 3 — Once per scene — One creature saves. On failure, it inhabits a complete false scene for one round, becoming Prone and Disabled in reality; when it returns, you may leave one false memory of what occurred.
+- **Mindbreak** — PL 7 — Requires Wyrd 4 + Shadow 3 — Once per scene — One creature within 10" saves. On failure, it takes Damage 6 Wyrd and becomes Disabled until the end of its next surge; on success, it takes Damage 3 Wyrd.
 - **The Throne Behind the Eyes** — PL 8 — Requires Wyrd 4 + Shadow 4 — Once per scene — One creature within 10" saves. On failure, control its actions for the scene; it repeats the save after each action that violates its Drive or causes an ally a wound, ending the effect on success.
 
 ------------------------------------------------------------------------
@@ -782,34 +684,20 @@ These lists use the same power budget and voice as Volumes 1–3: roughly fiftee
 
 *Governing Alignments: Wyrd and Machine.* Translocation edits position, adjacency, passage, and the rate at which a body occupies its moment. Wyrd breaks the assumption that here and there are separate. Machine makes the traveler arrive intact and on purpose.
 
-### Blink
-
 - **Blink** — PL 0 — Requires None — Teleport up to 3" to an open space you can see.
-- **Chain Blink** — PL 3 — Requires Wyrd 2 + Machine 1 — Teleport up to your Move three times, making one Strike, Shoot, or simple interaction at any point along the sequence.
-- **Everywhere Between** — PL 6 — Requires Wyrd 3 + Machine 3 — Once per scene — Until your next surge, after any creature you can see completes an action, teleport up to 4"; no Reaction can interrupt these jumps.
-
-### Object Recall
-
 - **Object Recall** — PL 1 — Requires Machine 1 — Mark one Light object you touch. For the session, call it into your hand from anywhere within the site as a free action.
-- **Recall Cache** — PL 3 — Requires Machine 2 + Wyrd 1 — Maintain marks on up to six carried objects; once per surge, exchange one held object with one marked object for free, regardless of distance within the region.
-- **Summon the Lost** — PL 7 — Requires Machine 4 + Wyrd 3 — Once per scene — Call one named object you have touched from anywhere in the world to an open space within 6". A sovereign object or active bearer may resist with a save.
-
-### Phase Shift
-
 - **Phase Shift** — PL 1 — Requires Wyrd 1 — Move through up to 2" of nonliving solid matter during this action; if you cannot emerge, return to where you entered.
-- **Ghost Through** — PL 4 — Requires Wyrd 2 + Machine 2 — Stance — Move through creatures and nonliving barriers, ignore difficult ground, and gain +1 Defend; ending a surge inside matter pushes you to the nearest open space and deals Damage 3 Wyrd.
-- **Walk Untouchable** — PL 7 — Requires Wyrd 4 + Machine 3 — Once per scene — Until your next surge, become intangible: move through all matter, ignore physical attacks, and neither make physical attacks nor manipulate physical objects.
-
-### Spatial Warping
-
 - **Spatial Warping** — PL 1 — Requires Wyrd 1 — Until your next surge, shorten or lengthen one visible route within 10" by 2" for movement and range.
-- **Folded Ground** — PL 4 — Requires Wyrd 2 + Machine 2 — Link two open spaces within 12" until your next surge; entering one exits the other, in either direction, after spending only 1" of movement.
-- **The Room With No Outside** — PL 8 — Requires Wyrd 4 + Machine 4 — Once per scene — Seal a 10-inch area for one round. Nothing crosses its boundary by movement, teleportation, line of effect, or remote perception unless you permit it.
-
-### Temporal Dilation
-
 - **Temporal Dilation** — PL 1 — Requires Machine 1 — Choose one creature within 10" until your next surge: hasten it for +2" Move, or slow it for –2" Move and –1 die on Reactions; an unwilling target saves.
+- **Chain Blink** — PL 3 — Requires Wyrd 2 + Machine 1 — Teleport up to your Move three times, making one Strike, Shoot, or simple interaction at any point along the sequence.
+- **Recall Cache** — PL 3 — Requires Machine 2 + Wyrd 1 — Maintain marks on up to six carried objects; once per surge, exchange one held object with one marked object for free, regardless of distance within the region.
+- **Ghost Through** — PL 4 — Requires Wyrd 2 + Machine 2 — Stance — Move through creatures and nonliving barriers, ignore difficult ground, and gain +1 Defend; ending a surge inside matter pushes you to the nearest open space and deals Damage 3 Wyrd.
+- **Folded Ground** — PL 4 — Requires Wyrd 2 + Machine 2 — Link two open spaces within 12" until your next surge; entering one exits the other, in either direction, after spending only 1" of movement.
 - **Borrowed Second** — PL 4 — Requires Machine 2 + Wyrd 2 — Reaction — After an ally within 10" completes an action, let them immediately Move up to 2" or take one Reaction whose trigger just occurred.
+- **Everywhere Between** — PL 6 — Requires Wyrd 3 + Machine 3 — Once per scene — Until your next surge, after any creature you can see completes an action, teleport up to 4"; no Reaction can interrupt these jumps.
+- **Summon the Lost** — PL 7 — Requires Machine 4 + Wyrd 3 — Once per scene — Call one named object you have touched from anywhere in the world to an open space within 6". A sovereign object or active bearer may resist with a save.
+- **Walk Untouchable** — PL 7 — Requires Wyrd 4 + Machine 3 — Once per scene — Until your next surge, become intangible: move through all matter, ignore physical attacks, and neither make physical attacks nor manipulate physical objects.
+- **The Room With No Outside** — PL 8 — Requires Wyrd 4 + Machine 4 — Once per scene — Seal a 10-inch area for one round. Nothing crosses its boundary by movement, teleportation, line of effect, or remote perception unless you permit it.
 - **Still Between Ticks** — PL 8 — Requires Machine 4 + Wyrd 4 — Once per scene — Take two actions immediately while every other creature is suspended. They cost no Momentum beyond this power, cannot directly damage a creature, and may reposition, prepare, manipulate, or create effects that resolve when time resumes.
 
 ------------------------------------------------------------------------
@@ -818,34 +706,20 @@ These lists use the same power budget and voice as Volumes 1–3: roughly fiftee
 
 *Governing Alignment: Wyrd (with Heavens for fortune, Shadow for ruin, Machine for controlled edits).* Tychokinesis moves probability rather than objects. It accelerates entropy, gathers luck, assigns misfortune, refuses likely harm, and—at its most dangerous—edits the event after the world thought it had happened.
 
-### Entropic Touch
-
 - **Entropic Touch** — PL 0 — Requires None — Touch one target: an object loses 2 Durability, or a creature takes Damage 2 Wyrd.
-- **Decay Cascade** — PL 3 — Requires Wyrd 2 + Shadow 1 — One target takes Damage 3 Wyrd; if wounded, one item it carries breaks or its Armor save worsens by 1 for the scene.
-- **Heat Death's Courtesy** — PL 7 — Requires Wyrd 4 + Shadow 3 — Once per scene — A 6-inch burst ages and decays: unattended mundane objects collapse, constructs take Damage 7 Wyrd, and creatures take Damage 5 Wyrd and become Fatigued.
-
-### Fortune
-
 - **Fortune** — PL 1 — Requires Heavens 1 — One creature within 10" gains +1 die on its next roll and may reroll one die showing 1.
-- **Fortunate Sequence** — PL 3 — Requires Wyrd 2 + Heavens 1 — Until your next surge, one ally rerolls all 1s and treats the first failed roll as one success instead.
-- **The Golden Path** — PL 7 — Requires Wyrd 4 + Heavens 3 — Once per scene — For the scene, once per round choose one ally before they roll; every die showing 3 counts as a success for that roll, and the GM identifies one fortunate opening their success creates.
-
-### Misfortune
-
 - **Misfortune** — PL 1 — Requires Shadow 1 — One enemy within 10" loses 1 die from its next roll and must reroll one die showing 6.
-- **Compound Error** — PL 3 — Requires Wyrd 2 + Shadow 1 — Curse one enemy until your next surge; whenever it fails a roll, it loses 1 additional die from its next roll, to a maximum penalty of –3.
-- **Ruinous Coincidence** — PL 6 — Requires Wyrd 3 + Shadow 3 — Once per scene — Name one enemy. For the scene, the first time each round it rolls any 1s, choose one consequence: it becomes Prone, drops an item, loses its next Reaction, or an adjacent ally of yours moves 2" free.
-
-### Probability Shield
-
 - **Probability Shield** — PL 1 — Requires Wyrd 1 — Reaction — Force one hit against you or an adjacent ally to be rerolled; the reroll must be kept.
-- **Improbable Survivor** — PL 4 — Requires Wyrd 2 + Heavens 2 — Stance — Once per round, reduce the first attack against you that scores three or more hits to two hits; hazards targeting you lose 2 dice.
-- **Never This Outcome** — PL 7 — Requires Wyrd 4 + Heavens 3 — Once per scene — Reaction — After a roll or wound effect is resolved, erase that result and reroll it from the beginning with all the same declared choices; the second result stands.
-
-### Reality Sculpt
-
 - **Reality Sculpt** — PL 1 — Requires Wyrd 1 — Declare one plausible minor coincidence in the scene: a needed mundane object is within reach, a door was left unlocked, or someone arrives a few minutes early. The GM makes it true without undoing an established fact.
+- **Decay Cascade** — PL 3 — Requires Wyrd 2 + Shadow 1 — One target takes Damage 3 Wyrd; if wounded, one item it carries breaks or its Armor save worsens by 1 for the scene.
+- **Fortunate Sequence** — PL 3 — Requires Wyrd 2 + Heavens 1 — Until your next surge, one ally rerolls all 1s and treats the first failed roll as one success instead.
+- **Compound Error** — PL 3 — Requires Wyrd 2 + Shadow 1 — Curse one enemy until your next surge; whenever it fails a roll, it loses 1 additional die from its next roll, to a maximum penalty of –3.
+- **Improbable Survivor** — PL 4 — Requires Wyrd 2 + Heavens 2 — Stance — Once per round, reduce the first attack against you that scores three or more hits to two hits; hazards targeting you lose 2 dice.
 - **Editable Scene** — PL 4 — Requires Wyrd 2 + Machine 2 — Once per scene — Alter one unobserved, plausible feature of the current location that was not established: add an exit, remove a minor barrier, place useful cover, or establish that you prepared a mundane tool here.
+- **Ruinous Coincidence** — PL 6 — Requires Wyrd 3 + Shadow 3 — Once per scene — Name one enemy. For the scene, the first time each round it rolls any 1s, choose one consequence: it becomes Prone, drops an item, loses its next Reaction, or an adjacent ally of yours moves 2" free.
+- **Heat Death's Courtesy** — PL 7 — Requires Wyrd 4 + Shadow 3 — Once per scene — A 6-inch burst ages and decays: unattended mundane objects collapse, constructs take Damage 7 Wyrd, and creatures take Damage 5 Wyrd and become Fatigued.
+- **The Golden Path** — PL 7 — Requires Wyrd 4 + Heavens 3 — Once per scene — For the scene, once per round choose one ally before they roll; every die showing 3 counts as a success for that roll, and the GM identifies one fortunate opening their success creates.
+- **Never This Outcome** — PL 7 — Requires Wyrd 4 + Heavens 3 — Once per scene — Reaction — After a roll or wound effect is resolved, erase that result and reroll it from the beginning with all the same declared choices; the second result stands.
 - **The World Blinks** — PL 8 — Requires Wyrd 4 + Machine 4 — Once per scene — Replace one event from the current round with another plausible outcome of equal scale. Reposition affected creatures and undo resulting Damage or conditions as needed; no one forgets the first version except the world.
 
 ------------------------------------------------------------------------
