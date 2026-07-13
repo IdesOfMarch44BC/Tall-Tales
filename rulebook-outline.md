@@ -1,131 +1,100 @@
-# TALL TALES — Core Rulebook Outline
-### A build map: what exists, where it goes, and what remains
+# Tall Tales — Core Rulebook Outline
 
-**Legend:** ✅ drafted (file exists) · 🔶 partial (some content, needs completion) · ⬜ not yet written
-Every drafted file still carries `%`-flagged proposals awaiting your sign-off; "to do" lists only *missing content*, not pending approvals.
+This is the current build map for the Markdown manuscript. It records what is usable now and what still needs original writing or playtest work.
 
----
+**Legend:** ✅ drafted and mechanically usable · 🔶 drafted but incomplete · ⬜ not yet written
 
 ## Structure at a Glance
 
-One core rulebook in five parts plus appendices. The card pools are large enough that they can either live as Part VI or split into a companion **Deck Compendium** — flagged where relevant.
+The core rulebook is organized in five parts plus a power compendium and appendices. The power compendium can remain Part VI or become a separate website section or companion volume.
 
----
+## Part 0 — Front Matter
 
-## PART 0 — Front Matter
+| Ch. | Chapter | Status | Current source | Remaining work |
+|:--:|:--|:--:|:--|:--|
+| 0.1 | Title, credits, legal | ⬜ | — | Boilerplate and credits |
+| 0.2 | What Is This Game? | 🔶 | `README.md`; opening of `rules/core-mechanics.md` | Expand into a short new-player pitch and list what is needed to play |
+| 0.3 | The World in One Page | 🔶 | Lore chapter openings; `lore/running-the-frontier.md` | Distill the frontier, five planes, and factions without GM secrets |
+| 0.4 | Example of Play | ✅ | `rules/core-mechanics.md` | Layout only |
 
-| Ch. | Chapter | Status | Source | To do |
-|---|---|---|---|---|
-| 0.1 | Title, credits, legal | ⬜ | — | Boilerplate |
-| 0.2 | **What Is This Game?** (pitch, what you do, what you need, dice notation) | ⬜ | Tone exists across drafts | Write fresh; ~2 pages. Include "the frontier fiction" hook without spoiling it |
-| 0.3 | **The World in One Page** (stateless frontier, the Unmapping, five planes, the factions in a sentence each) | 🔶 | Openings of `inter-faction-relations-rewrite.tex`, `species-rewrite.tex` intro | Distill; this is the new reader's on-ramp |
-| 0.4 | Example of play (short, flavorful) | ✅ | "An Exchange of Play" in `core-mechanics.tex` | Possibly move here or duplicate trimmed version |
+## Part I — The World
 
----
+| Ch. | Chapter | Status | Current source | Remaining work |
+|:--:|:--|:--:|:--|:--|
+| 1 | The Frontier | 🔶 | Faction chapters; `lore/running-the-frontier.md` | A dedicated player-facing premise chapter |
+| 2 | The Five Planes and Alignments | 🔶 | `rules/core-mechanics.md`; `design-notes/cosmology-species-feedback.md` | A dedicated cosmology chapter joining lore to the finished Alignment rules |
+| 3 | A History of the Reckoned Years | ✅ | `lore/timeline.md` | Separate player knowledge from GM secrets during layout |
+| 4 | The Regions | 🔶 | Regional material throughout `lore/` | Compile the five regions and named sites into one gazetteer |
 
-## PART I — The World (player-facing primer)
+## Part II — Characters
 
-| Ch. | Chapter | Status | Source | To do |
-|---|---|---|---|---|
-| 1 | **The Frontier** (life, towns, rails, Rings & scrip, who's in charge = nobody) | 🔶 | Original `premise.md` + textures scattered through faction rewrites (spread, factors, station clocks) | Rewrite premise doc to match new canon; ~6 pages |
-| 2 | **The Five Planes & the Alignments** (Heavens, Machine, Shadow, Wild, Wyrd; boundary realms; vim; the Wyrd debt) | 🔶 | Original `cosmology.md` + `planes-boundary.md`; feedback in `cosmology-species-feedback.md`; alignment text in `core-mechanics.tex` | **The cosmology docs were reviewed but never rewritten.** Rewrite to weld with mechanics chapter; resolve Heaven/Heavens spelling |
-| 3 | **A History of the Reckoned Years** (timeline) | ✅ | `timeline.tex` | Trim GM-only secrets (Cascade truth, Accord's real nature) into Part V; player version keeps the public record |
-| 4 | **The Regions** (Frozen Coast, Salt Reach, Verdant Belt, High Cradle, Iron Reach; named sites) | 🔶 | Original `regions.tex` reviewed in feedback; never rewritten | Rewrite to fold in ~40 named places now canon (Thirstgate, Redwater, Dustline, Cold Anvil, the Rust Belt, Corvenwood, Glass Plains…) |
+| Ch. | Chapter | Status | Current source | Remaining work |
+|:--:|:--|:--:|:--|:--|
+| 5 | Character Creation | ✅ | `rules/character-creation.md` | Character-sheet layout and playtest examples |
+| 6 | The Seventeen Peoples | ✅ | `lore/species-rewrite.md`; `powers/species-power-lists.md` | Layout only |
+| 7 | The Ten Classes | ✅ | `rules/character-creation.md`; `powers/class-power-lists.md`; Volumes 1–3 | Layout; playtest tuning |
+| 8 | Factions and Allegiance | ✅ | `powers/faction-power-lists.md`; `lore/unaffiliated-rewrite.md`; core severance rules | Consolidate into a website/book chapter |
+| 9 | Deeds | ✅ | `rules/deeds.md` | Playtest tuning |
 
----
+## Part III — Rules of Play
 
-## PART II — Characters
+| Ch. | Chapter | Status | Current source | Remaining work |
+|:--:|:--|:--:|:--|:--|
+| 10 | How the Game Works | ✅ | `rules/core-mechanics.md` | Playtest tuning only |
+| 11 | Combat and Wounds | ✅ | `rules/combat-mechanics.md` | Playtest lethality and condition frequency |
+| 12 | Equipment and the Two Monies | ✅ | `rules/equipment.md` | Economy and weapon tuning |
+| 13 | The Road | 🔶 | Recovery and services in combat/equipment; travel material in lore | Add a unified travel procedure and downtime action menu |
 
-| Ch. | Chapter | Status | Source | To do |
-|---|---|---|---|---|
-| 5 | **Character Creation** (step-by-step; the sheet walked through; Demeanor/Drive/Reputation; wanted-poster name) | 🔶 | Creation summary + Identity section in `core-mechanics.tex` | **Creation point arrays still placeholders** ([X] skill dots, [Y] alignment dots, caps); derive Strike/Shoot/Defend/Armor/Move/threshold tables per class |
-| 6 | **The Seventeen Peoples** (species lore + traits) | ✅ | `species-rewrite.tex` | Layout only; traits already verbatim |
-| 7 | **The Ten Classes** (class lore intros, archetype overviews, level progression) | 🔶 | Archetype concepts in `cards/class-card-pools.md`; class lore embedded in faction chapters | Expand per-class pages (identity, role, starting stats, threshold values); progression table (deck growth ✅ + everything else ⬜) |
-| 8 | **Factions & Allegiance** (joining, standing, severance; the Drifter) | ✅ | `faction-card-pools.tex` (Training/Standing/Access), `unaffiliated-rewrite.tex`, severance rules in `core-mechanics.tex` | Consolidate; short "playing X faction" boxes can lift from each chapter's In Play section |
-| 9 | **Deeds** (20 deeds, ranks I–IV) | ✅ | `deeds.tex` | Confirm acquisition track (D1/D2 proposals); tune numbers |
+The combat chapter now uses one procedure for all **14 damage types**: nine common types (Pierce, Slash, Blunt, Burn, Blast, Cold, Acid, Electricity, Toxic) and five planar types (Heavens, Machine, Shadow, Wild, Wyrd).
 
----
+## Part IV — The Frontier in Depth
 
-## PART III — Rules of Play
+| Ch. | Chapter | Status | Current source | Remaining work |
+|:--:|:--|:--:|:--|:--|
+| 14–22 | The Nine Factions | ✅ | The nine `lore/*-rewrite.md` faction chapters | Player/GM visibility pass during layout |
+| 23 | The Unaffiliated | ✅ | `lore/unaffiliated-rewrite.md` | Layout only |
+| 24 | Notable Powers | 🔶 | Named powers throughout the lore | Compile an NPC and sovereign gazetteer; expand the celestial layer |
 
-| Ch. | Chapter | Status | Source | To do |
-|---|---|---|---|---|
-| 10 | **How the Game Works** (dice, 4+, skills, alignments augment/invoke, saves, Momentum & surges, the deck) | ✅ | `core-mechanics.tex` (sheet-reconciled 2nd draft) | Resolve P-proposals; final skill list glossary |
-| 11 | **Combat & Wounds** (to-hit, Defend, Armor X+/Y+, AP, thresholds, all 8 damage-type wound tables, Dying/Death) | ✅ | `combat-mechanics.tex` (rebalanced; 8 types) | Set **Moderate/Major threshold values**; decide multi-hit/focus rule (K3); Bleeding→Dying timing check; mortality sanity-pass once weapons exist |
-| 12 | **Equipment & the Two Monies** (weapons, armor sets w/ X+/Y+ values, AP ammo, iron-free kit, frames as vehicles, Coins vs Funds prices) | ⬜ | Scattered: Coins/Funds in core, gear culture in faction chapters | **Biggest pure-mechanics gap.** Weapon list (Attack Dice, Strike/Shoot mods, Damage, AP, tags), armor list, price tables, services |
-| 13 | **The Road** (travel, relay lines, spreads & scrip in play, downtime, healing & maiming recovery, grown limbs/prosthetics) | 🔶 | Travel textures across Wardens/Companies chapters; healing hooks in combat + Sawbones cards | Systematize: travel procedure, downtime actions, injury recovery times, prosthetic rules (setting demands them) |
+## Part V — Game Master’s Section
 
----
+| Ch. | Chapter | Status | Current source | Remaining work |
+|:--:|:--|:--:|:--|:--|
+| 25 | Running the Frontier | ✅ | `lore/running-the-frontier.md`; chapter toolkits | Playtest and layout |
+| 26 | The Sediment and the Secrets | 🔶 | Timeline, relation, and faction chapters | Extract the GM-true history into one clearly marked chapter |
+| 27 | The Deep Currents | 🔶 | Inter-faction relations and chapter fault lines | Add escalation tracks for the major campaign spines |
+| 28 | Flashpoints | 🔶 | Ready situations throughout the lore | Convert 6–8 into structured scenarios |
+| 29 | Threats | ⬜ | Troop rules and planar taxonomy provide the framework | Define a named-threat stat block and write a bestiary |
+| 30 | Wound Tables: GM Notes | ✅ | End of `rules/combat-mechanics.md` | Extract as a reference page if desired |
 
-## PART IV — The Frontier in Depth (setting chapters)
+## Part VI — Power Compendium
 
-| Ch. | Chapter | Status | Source | To do |
-|---|---|---|---|---|
-| 14–22 | **The Nine Factions** (one chapter each: Lions, Houses, Enclaves, Orders, Guilds, Mercenaries, Trade Companies, Registries, Wardens) | ✅ | The nine `-rewrite.tex` files | Layout; proper-noun consistency pass; decide what's player-safe vs GM-only per chapter (each has secrets) |
-| 23 | **The Unaffiliated** | ✅ | `unaffiliated-rewrite.tex` | None |
-| 24 | **Notable Powers** (Beast Lords, Leo & the celestial question, great NPCs compiled) | 🔶 | Original `notable-factions` + sovereign entries in Wardens rewrite + named NPCs across all chapters | Compile NPC gazetteer; **write the pantheon/Leo chapter** (the celestial layer is still thin) |
-
----
-
-## PART V — Game Master's Section
-
-| Ch. | Chapter | Status | Source | To do |
-|---|---|---|---|---|
-| 25 | **Running the Frontier** (shared knowledge, character hooks, settlements, law, faction play, travel, planar prices, campaign frames) | ✅ | `lore/running-the-frontier.md`; chapter-specific Player/GM Toolkits | Layout and playtest |
-| 26 | **The Sediment & the Secrets** (GM-true history: the Accord, the Cascade, the seal; per-faction hidden truths incl. the Long Table) | ✅ | Relations rewrite + faction chapter headers | Extract and compile the GM-only layer |
-| 27 | **The Deep Currents** (the Waking Made, the Thinning, the Testing of the Web — campaign spines) | ✅ | Relations rewrite | Expand each into a campaign frame w/ escalation tracks (~2 pages each) |
-| 28 | **Flashpoints** (Redwater, the Succession, Southreach Survey, Corvenwood, the Freeze, etc. as ready-to-run situations) | 🔶 | Fault-line sections everywhere; flashpoint summaries in relations doc | Convert 6–8 into structured scenarios (sides, clocks, maps, stat needs) |
-| 29 | **Threats** (bestiary: Wild creatures, Shadow's leavings, Nightmare hunters, orphan musters, the Kept, Talvecq revenants, Contractors) | ⬜ | Taxonomy implied by cosmology + planar damage types + monster mentions throughout | **Biggest content gap overall.** Needs stat-block format first (built on Troop template + wound system), then ~40 entries; the five planar damage types hand you the organizing principle |
-| 30 | **The Wound Tables, GM Notes** (called shots, focus rule, mixed types, planar damage sources) | 🔶 | Combat chapter notes | Short; resolve K3 |
-
----
-
-## PART VI — The Card Compendium *(or companion volume)*
-
-| Ch. | Chapter | Status | Source | To do |
-|---|---|---|---|---|
-| 31 | **Deck Rules Reference** (piles, tags: One-Shot/Reaction/Troop/Stance/Consumable; building & leveling; severance taxonomy) | ✅ | Core + pool file headers | Compile |
-| 32 | **Class Pools Vol. 1** — Witness, Drifter, Arcanist, Dynast (13 archetypes × 15) | ✅ | `cards/class-pools-vol1.md` | Tuning and scratch-identity pass |
-| 33 | **Class Pools Vol. 2** — Mentalist, Tinkerer, Sawbone (9 archetypes × 15) | ✅ | `cards/class-pools-vol2.md` | Tuning and scratch-identity pass |
-| 34 | **Class Pools Vol. 3** — Captain, Bounty Hunter, Shapeshifter (11 archetypes × 15) | ⬜ | Samples in `class-card-pools.tex` | **Write** (the interrupted remainder of the full-size pass) |
-| 35 | **Species Pools** (17 × 8) | 🔶 | `species-card-pools.tex` (17 × 5 cores) | +3 cards each (51 cards) |
-| 36 | **Faction & Drifter Pools** (10 × 8) | 🔶 | `faction-card-pools.tex` (10 × 5 cores) | +3 cards each (30 cards) |
-
----
+| Ch. | Chapter | Status | Current source | Remaining work |
+|:--:|:--|:--:|:--|:--|
+| 31 | Powers Known and Alignment Reserves | ✅ | `rules/core-mechanics.md` | Extract as a standalone reference page if desired |
+| 32 | Class Powers, Volume 1 | ✅ | `powers/class-powers-vol1.md` | 13 archetypes × 15 powers; tune in play |
+| 33 | Class Powers, Volume 2 | ✅ | `powers/class-powers-vol2.md` | 9 archetypes × 15 powers; tune in play |
+| 34 | Class Powers, Volume 3 | ✅ | `powers/class-powers-vol3.md` | 11 archetypes × 15 powers (Captain, Bounty Hunter, Shapeshifter); tune in play |
+| 35 | Species Power Lists | ✅ | `powers/species-power-lists.md` | 17 lists × 5 powers |
+| 36 | Faction and Unaffiliated Power Lists | ✅ | `powers/faction-power-lists.md` | 10 lists × 5 powers |
 
 ## Appendices
 
-| App. | Content | Status | To do |
-|---|---|---|---|
-| A | Character sheet (print) | ✅ | Your PNG; align Heaven→Heavens |
-| B | Wound tables quick reference (all 8 types, one spread) | 🔶 | Reformat from combat chapter |
-| C | Status glossary (Disabled, Bleeding, Burning, Dying, Death, prone, etc.) | 🔶 | Compile; formalize prone/blinded/dazed |
-| D | Timeline quick reference (player-safe) | ✅ | Trim from Ch. 3 |
-| E | Names & glossary of proper nouns | ⬜ | Generate during consistency pass |
+| App. | Content | Status | Remaining work |
+|:--:|:--|:--:|:--|
+| A | Character sheet | 🔶 | Add powers known and available/permanent Alignment reserve tracking |
+| B | Wound-table quick reference | 🔶 | Extract the 14 tables from combat for print/site use |
+| C | Rules and status glossary | ✅ | Present in `rules/core-mechanics.md` and `rules/combat-mechanics.md`; optionally combine |
+| D | Player-safe timeline | 🔶 | Trim from `lore/timeline.md` |
+| E | Proper-noun glossary | ⬜ | Generate during final lore layout |
 | F | Index | ⬜ | Layout stage |
 
----
+## Remaining Work, Prioritized
 
-## The Gap List, Prioritized
+1. Define named-threat statistics and write the bestiary.
+2. Compile the regions and cosmology into dedicated player-facing chapters.
+3. Add the unified travel and downtime procedure.
+4. Extract player-safe and GM-only information into their final homes.
+5. Playtest Momentum economy, Alignment requirements, powers known, wound lethality, weapons, armor, Recovery, and power outliers — including the newly completed Volume 3 lists (Captain Momentum economy, Free Captain action-granting, Shapeshifter Form ceilings).
+6. Build the character sheet, quick references, glossary, and index for publication.
 
-**Blocking play (rules can't run without):**
-1. Creation arrays + per-class derived stats & **threshold values** (Ch. 5/7)
-2. **Equipment chapter** — weapons/armor with real numbers (Ch. 12)
-3. Class Pools Vol. 3 (Ch. 34)
-
-**Blocking the book (large writing tasks):**
-4. **Threats/bestiary** — stat format + entries (Ch. 29)
-5. Regions rewrite (Ch. 4) and Cosmology rewrite (Ch. 2)
-6. Premise/intro rewrite (Ch. 1) + What Is This Game (0.2)
-7. Pantheon/Leo & Notable Powers compile (Ch. 24)
-
-**Polish (before layout):**
-8. Species/faction pool expansions (Ch. 35–36)
-9. GM section consolidation (Ch. 25–28)
-10. Full consistency pass → glossary (App. E); Heaven/Heavens; canonical class terminology
-11. Downtime/healing/prosthetics systemization (Ch. 13)
-12. Mortality tuning pass once thresholds + weapons exist
-
----
-
-*Everything drafted totals ~24 files / ~450 pages of raw manuscript. The skeleton is complete and load-bearing; the gaps are now specific, bounded, and mostly mechanical rather than conceptual.*
+The core mechanics no longer depend on a draw/discard deck, placeholder arrays, Hit Dice, primary ability scores, hit points, tiles, or competing turn structures. All ten class lists are now written; playtest tuning is the remaining mechanical work, rather than missing foundations.

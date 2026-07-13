@@ -1,4 +1,4 @@
-# Deeds
+﻿# Deeds
 
 ## What a Deed Is
 
@@ -6,9 +6,9 @@ The six lines under **Deeds** on your sheet are not a shopping list. They are th
 
 A Deed is a specialization or signature ability, earned in play and ranked **I through IV**. Each deed occupies one of your six slots at any rank — you write *Deadeye III* on the line, not three separate entries — so a career holds at most six legends, and which six is as much a portrait as your Demeanor. Ranks are upgrades in place: the deed deepens; it does not multiply.
 
-\[PROPOSAL D1\] **Earning deeds.** You gain one deed rank at every even character level — a new deed at rank I, or one more rank in a deed you hold — *and* the GM may award a rank, at any time, when the table agrees the character just *did the thing*: held the door, made the shot, talked the room around. Every deed below carries an “Earned by” line for exactly this purpose. The award track and the level track are the same track; deeds do not care how the legend started, only that it’s true. \[PROPOSAL D2\] Rank III requires level 5+; rank IV requires level 9+.
+**Earning deeds.** Gain one deed rank at every even character level: take a new deed at rank I or increase a deed you hold by one rank. The GM may also award a rank when the table agrees the character just did the thing. Rank III requires level 5+; rank IV requires level 9+. No deed can gain more than one rank from the same event.
 
-\[PROPOSAL D3\] **Stacking.** Deed bonuses stack with species traits, cards, and Alignment augments. You cannot apply the same deed to a single roll twice.
+**Stacking.** Deed bonuses stack with species traits, powers, and Alignment augments. You cannot apply the same deed to a single roll twice. When two effects set the same value rather than modifying it, use the more favorable value; do not combine them.
 
 **Reading the ranks.** Every deed follows the same grammar. **Rank I** is a specialization — a die, an edge, a reliability, in the deed’s exact territory. **Rank II** widens it. **Rank III** is a signature: the active ability people describe when they describe you. **Rank IV** is a legend — usually once per session — the thing the stories exaggerate, except they don’t.
 
@@ -21,13 +21,13 @@ A Deed is a specialization or signature ability, earned in play and ranked **I t
 *Earned by the shot nobody believed until they walked over and looked.*
 
 I.  
-Once per activation, reroll one missed die on a Shoot attack.
+Once per surge, reroll one missed die on a Shoot attack.
 
 II\.  
 Your Shoot attacks ignore 1 point of the target’s Defend.
 
 III\.  
-**Dead to Rights** (1 Momentum, once per scene): declare before rolling — this Shoot attack cannot be reduced below half your Shoot dice (round up) by Defend.
+**Dead to Rights** (1 Momentum, once per scene): declare before rolling — Defend cannot reduce this Shoot attack below half the weapon’s Attack Dice, rounded up.
 
 IV\.  
 Once per session, after rolling a Shoot attack, every die counts as a hit.
@@ -37,7 +37,7 @@ Once per session, after rolling a Shoot attack, every die counts as a hit.
 *Earned by winning a fight you started by standing still.*
 
 I.  
-Once per activation, reroll one missed die on a Strike attack.
+Once per surge, reroll one missed die on a Strike attack.
 
 II\.  
 Your Strike attacks ignore 1 point of the target’s Defend.
@@ -46,7 +46,7 @@ III\.
 **Riposte** (free, once per round): when an adjacent enemy attacks you and scores no hits, immediately make a Strike attack against them at no Momentum cost.
 
 IV\.  
-Once per session, one Strike attack ignores Defend and Armor entirely.
+Once per session, one Strike attack ignores Defend and the Armor save; Negation still applies.
 
 ### Bulwark
 
@@ -69,16 +69,16 @@ Once per session, reduce one attack against you or an adjacent ally to zero hits
 *Earned by being carried off the field, and back onto the next one.*
 
 I.  
-+2 maximum HP.
++1 Moderate threshold.
 
 II\.  
-+2 more maximum HP, and while at half HP or below, gain +1 die on saves.
++1 Major threshold, and gain +1 die on Alignment saves while carrying a major wound.
 
 III\.  
-Once per scene, when you would drop to 0 HP or below, drop to 1 instead.
+Once per scene, when a wound would make you Dying, reduce that wound one severity; you remain Disabled until cleared normally.
 
 IV\.  
-Once per session, when you would die, you don’t: you are at 1 HP, standing, and visibly annoyed.
+Once per session, change a Death result against you to Dying, then immediately stabilize. You remain prone and visibly annoyed.
 
 ------------------------------------------------------------------------
 
@@ -89,13 +89,13 @@ Once per session, when you would die, you don’t: you are at 1 HP, standing, an
 *Earned by clearing leather while the other party was still deciding.*
 
 I.  
-Once per scene, when an enemy targets you, play one 1-cost card from your hand as a reaction, at no Momentum cost, resolving it before their action.
+Once per scene, when an enemy targets you, use one PL 1 or lower power you know as a Reaction before their action. Pay its Alignment requirement but no Momentum.
 
 II\.  
 Twice per scene.
 
 III\.  
-Your reaction may instead be a Shoot attack, or a card costing up to 2.
+Your reaction may instead be a Shoot attack or a PL 3 or lower power you know.
 
 IV\.  
 **The Standoff** (once per session): when an enemy declares an attack against you, resolve a full Shoot attack against them first. If it drops them, their attack never happens.
@@ -118,35 +118,35 @@ Once per session, after your side rolls Momentum, set the die to 6.
 
 ### Ace in the Hole
 
-*Earned by producing, at the fatal moment, exactly the card everyone forgot you had.*
+*Earned by producing, at the fatal moment, exactly the technique nobody knew you had.*
 
 I.  
-When you load your hand at the start of an encounter, you may search your holstered pile for one card and load it as one of your five, then shuffle.
+Once per scene, use one PL 1 or lower power from your class lists that you do not know. Pay its requirement normally; this does not teach it to you.
 
 II\.  
-Once per scene, retrieve one card (not a One-Shot) from your expended pile into your hand.
+The borrowed class power may be PL 3 or lower.
 
 III\.  
-Your loaded hand holds 6 cards.
+Instead choose any class, species, faction, or Unaffiliated power with PL no higher than your character level, provided the fiction gives you some plausible exposure to it.
 
 IV\.  
-Once per session, return one of your used One-Shot cards to your hand.
+Once per session, use the power chosen through this deed without paying its Alignment requirement.
 
 ### Old Reliable
 
 *Earned by doing the same beautiful thing so often it acquired your name.*
 
 I.  
-Choose one card in your deck: your *reliable*. When you load your hand at the start of an encounter, you may take the reliable from holstered as one of your five.
+Choose one PL 1 or higher power you know as your *reliable*. The first time you use it each surge, reduce one required dot of your choice.
 
 II\.  
-Once per scene, when the reliable enters your expended pile, return it to holstered immediately.
+Reduce two required dots instead of one.
 
 III\.  
-After you play the reliable, immediately load one card from holstered (this can exceed your normal reload timing, not your hand size).
+Once per scene, using the reliable costs no Momentum; pay its reduced Alignment requirement normally.
 
 IV\.  
-At the start of each of your side’s surges, if the reliable is in your expended pile, return it to your hand.
+Once per session, use the reliable without paying Momentum or its Alignment requirement.
 
 ------------------------------------------------------------------------
 
@@ -163,7 +163,7 @@ II\.
 Once per scene, after examining a place, person, or object, ask the GM one direct question about it and receive a true answer.
 
 III\.  
-You notice as though searching: within 10 tiles, hidden things, ambushes, and wrongness prompt a Perceive roll from you even when you aren’t looking.
+You notice as though searching: within 20", hidden things, ambushes, and wrongness prompt a Perceive roll even when you are not actively looking.
 
 IV\.  
 **I Already Noticed** (once per session): retroactively declare that you clocked a detail earlier in the scene — the exit, the second knife, the face in the crowd. The GM makes it true within reason.
@@ -273,16 +273,16 @@ Choose one plane: your rating counts as 2 higher (max 10) when invoking it. Its 
 *Earned by walking out of a thin place that kept everyone else.*
 
 I.  
-+1 die on saves against Wild and Wyrd effects.
++1 die on Alignment saves against Wild and Wyrd effects.
 
 II\.  
-\[PROPOSAL D6\] Your attacks count as cold iron: against Wild- and Wyrd-aligned creatures, ignore 1 Armor.
+Your attacks count as cold iron and gain AP 1 against Wild- and Wyrd-aligned creatures.
 
 III\.  
 Once per scene, when a Wild or Wyrd complication lands on an adjacent ally, draw it onto yourself instead.
 
 IV\.  
-**The Still Spot** (once per session, free): for one full round, supernatural effects of the Wild and the Wyrd are suppressed within 3 tiles of you. Things that live in those planes find you *extremely rude*.
+**The Still Spot** (once per session, free): for one full round, supernatural effects of the Wild and the Wyrd are suppressed within 6" of you. Things that live in those planes find you *extremely rude*.
 
 ------------------------------------------------------------------------
 
@@ -334,7 +334,7 @@ III\.
 **Vanish** (1 Momentum, once per scene): if any cover or shadow exists, you are unseen; enemies must beat your Nimbleness with Perceive to target you.
 
 IV\.  
-**Never There** (once per session): when you are revealed, targeted, or cornered, you were somewhere else all along — reposition up to your Move in tiles, unseen, as the scene reorganizes around the fact.
+**Never There** (once per session): when you are revealed, targeted, or cornered, reposition up to your Move in inches to a place you could plausibly have reached unseen.
 
 ### Long Haul
 

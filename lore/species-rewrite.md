@@ -22,7 +22,7 @@ Dóm society is deeply communal — warmth, labor, and knowledge are shared with
 
 Other cultures idolize Dóm beauty and hire it eagerly — as couriers, scouts, and guides — praising a “natural grace” while ignoring the discipline and cost that produced it. On the Frozen Coast this reduction has hardened into something like a profession: the Witnesses of the Lion’s Iceharbor chapter maintains a standing courier compact with the Dóm of the Long Slope, and a Dóm bearing the chapter’s iron-lantern token is owed shelter at any funded church in the north — an obligation the Dóm have famously never had to invoke twice. Whether admired or feared, the Dóm are too often made into spectacle. Among themselves they know the truth: grace keeps them alive, but obligation decides who must move, and who may finally rest.
 
-> **Perfection at All Costs.** When a Dóm makes a skill check, they may “double down.” If the first check was a failure, a successful second check makes it a success, but a failed second check makes something very disadvantageous happen (GM’s discretion). If the first check was a success, a failed second check makes it a failure, but a successful second check makes something very advantageous happen (GM’s discretion).
+> **Perfection at All Costs.** Once per scene after a Skill roll, a Dóm may double down: reroll the entire pool and use the second result. If both rolls succeed, gain +1 margin. If both fail, the GM adds a complication beyond the ordinary consequence.
 
 ### Uln
 
@@ -34,7 +34,7 @@ Fire is mistrusted to the point of taboo. Open flame is rare in an Uln city and 
 
 Uln adventurers are uncommon and faintly unsettling to their kin. Some leave to study foreign technologies and heat-based magic, hoping to understand a threat before it reaches the ice; others are exiles who broke a taboo, or who committed the quieter offense of asking whether the glacier should define an entire life. To live outside controlled cold is uncomfortable for an Uln, sometimes frightening — but for some, the knowledge is worth the discomfort.
 
-> **Icecunning.** Ulns automatically succeed on Perceive checks for unusual conditions in ice or snow, including ice or snow traps and natural or supernatural hazards such as thin ice or blood-snow. An Uln who merely comes within 10 feet of unusual ice construction or a hazard gains information as though actively searching.
+> **Icecunning.** Uln automatically notice unusual conditions, traps, and supernatural hazards in ice or snow within 2" and gain the basic information an active Perceive search would reveal. Roll only when concealed detail or speed matters.
 
 ### Wyr
 
@@ -46,7 +46,7 @@ Wyr society is quiet, patient, and introspective. They do not breed; they endure
 
 To outsiders the Wyr are unsettling: wooden figures who speak softly, move deliberately, and watch without blinking. Some see tools awaiting reclamation; others, proof that life can be manufactured. The Wyr reject both. They are neither property nor miracle. They are people who began as an intention and must now decide what to do with it — and they sit, whether they wish to or not, at the center of three of the setting’s oldest questions. The Academic Enclaves note, with a discomfort that has not eased in three centuries, that *no Wyr has ever erupted* — that the one people made rather than born is also the one people arcane magic has never touched, a fact each school of thought claims as proof of its own theory and none can explain. The scholars who chase the Makers note the resemblance between the Wyr’s vanished creators and the personified Machine of the Material World, and the buried Maker-Sites where the old arts still hum, and House Ferrant’s whispered origin, and decline, so far, to say aloud what the resemblance might mean. The Wyr, asked their opinion on any of it, tend to reply that they find it restful to be the one people whose relationship with magic is entirely voluntary — an answer that is not data, and is remembered longer than most data.
 
-> **Maker-Mark.** A Wyr chooses two alignments at character creation, one dominant and one recessive. The Wyr may make saving throws of the recessive alignment using their dominant alignment instead. (Example: a Wyr whose dominant alignment is Heavens and recessive alignment is Wild may make Wild saving throws with their Heavens alignment.)
+> **Maker-Mark.** At creation, choose one dominant and one recessive Alignment. When making an Alignment save with the recessive plane, use the dominant Alignment’s rating instead.
 
 ------------------------------------------------------------------------
 
@@ -62,7 +62,7 @@ The Gorûn write their lives on their bodies. Paint and removable dye shield the
 
 Beneath the stewardship runs a quiet resentment. The Gorûn are leaned on — as muscle, as living cisterns, as guides — and rarely offered belonging in return, and many feel trapped between the role of provider and a world that sees only the endurance. Those who leave often go seeking a life where their strength is chosen rather than assumed. Wherever they go they carry the shepherd’s habits: watching the horizon, counting the supplies, measuring time by survival rather than comfort — and, on the Salt Reach, the rarest Gorûn skill of all, the patience that lets a caravan cross the burned hills of the Smoking Mother’s country at all, negotiated season by season through her creatures, in a diplomacy the Frontier Wardens themselves regard as a standing miracle.
 
-> **Large Size.** When a Gorûn makes a skill check involving grappling, lifting, or raw strength, they may add an additional die.
+> **Large Size.** Gorûn count as Large and gain +1 die on Athletics rolls involving grappling, lifting, or raw strength.
 
 ### Serekh
 
@@ -72,7 +72,7 @@ Because water is life and life is stored at home, a wandering Serekh is not read
 
 The Serekh are slow, and mistaken for helpless, and both impressions are corrections waiting to happen. The desert skies hold predatory avians that stoop on the Serekh to drink the water in their bodies, and when the threat comes from above the Serekh answer with instinct older than strategy: the elders, spine-hardened and broad, cluster into a living barricade around the soft and the young and hold until the sky gives up. To outsiders the Serekh seem deliberate past the point of stubbornness — slow to move, careful to speak, unwilling to waste a single effort — but once a Serekh has chosen where to stand, they are as difficult to uproot as the desert itself.
 
-> **Spines.** Thousands of tough spines cover the Serekh body. They allow a Serekh to deal lethal damage even while unarmed, and grant +1 Defend against melee attacks.
+> **Spines.** Serekh count as Large. Their unarmed attacks use 2 Attack Dice and Damage 3 Pierce, and they gain +1 Defend against melee attacks.
 
 ### Tikka
 
@@ -82,7 +82,7 @@ Tikka culture is defined by preparation, and its first lesson is that size is a 
 
 Tikka leave the warrens for many reasons: engineers eager to test their designs against a wider world, scouts mapping new routes, exiles who broke a trust and forfeited the shared caches that sustain the rest. And a few leave for a subtler ache — weariness of living beneath the world, forever alert — wanting, just once, to know what it feels like to be seen without immediately being hunted. The Trade Companies and the Landed Guilds both court Tikka engineers hard; the finest works-engineer on the register, Hesper Coil of Vault & Coil, is Tikka, and every Tikka apprentice in a Guild hall knows it.
 
-> **Slight Build.** When a Tikka makes a skill check involving squeezing through tight spaces, evading notice, or nimbleness, they may add an additional die.
+> **Slight Build.** Tikka gain +1 die on Skill rolls involving squeezing through tight spaces, evading notice, or bodily nimbleness.
 
 ------------------------------------------------------------------------
 
@@ -96,7 +96,7 @@ Their society grows fast. Brindel mature quickly and raise large broods, and the
 
 Many Brindel leave as part of that restless expansion; others simply grow curious about the world beyond the briars. Away from the protection of thorn and tunnel, a Brindel adventurer leans on the skills that sustain the whole people: ingenuity, improvisation, and a gift for finding opportunity precisely where others see none.
 
-> **Brushcunning.** Brindels automatically succeed on Perceive checks for unusual conditions in undergrowth, briars, or similar dense vegetation, including thicket or thorn traps and natural or supernatural hazards such as bleeding vines. A Brindel who merely comes within 10 feet of unusual brush gains information as though actively searching.
+> **Brushcunning.** Brindel automatically notice unusual conditions, traps, and supernatural hazards in dense vegetation within 2" and gain the basic information an active Perceive search would reveal. Roll only when concealed detail or speed matters.
 
 ### Lemari
 
@@ -106,7 +106,7 @@ Unlike many forest peoples the Lemari do not prize stillness or solitary wisdom.
 
 Because their lives are so bound to place, most Lemari rarely leave the home canopy, and those who do are unusual figures — scouts, wanderers, the displaced survivors of clans whose trees have died or burned. The ground-world feels exposed and wrong to them, but some accept that discomfort to protect the forests that sustain their people. Other folk often mistake the Lemari for the elves of old story and call them so out of habit; the Lemari neither embrace nor much resist the name, but do not use it among themselves — to them, identity is not a broad species but the specific living tree that anchors a clan and the voices that share its branches.
 
-> **Prehensile Tail.** A Lemari’s tail acts as a third grasping limb, able to hold (but not wield) a small object. A Lemari may brachiate — swing from vines — at normal movement speed and without an Athletics check.
+> **Prehensile Tail.** A Lemari’s tail can hold, draw, or stow one small object but cannot attack or operate a complex tool. A Lemari brachiates through suitable terrain at full Move without an Athletics roll.
 
 ### Silvaen
 
@@ -116,7 +116,7 @@ Silvaen society is therefore built on attentiveness and restraint. They do not c
 
 That self-description places the Silvaen on the exact fault line the whole setting turns on, and they know it. A people grown by the forest, bound to the forest, calling themselves its wardens — are they *of* the Wild, in the way the Beast Lords are of the Wild? The question has no settled answer, and the Silvaen live inside it. The Frontier Wardens extend Silvaen individuals full working trust, relay access, and a standing invitation to the Gathers that the Silvaen accept perhaps once a decade, memorably; and on the matter of the Quickthorn’s grown soldiers — thorn-warriors cultivated by the thousand in Guild vat-yards, the industrial mass-manufacture of almost-minds — the two warden traditions have discovered their first true disagreement, and are conducting it the way both prefer: slowly, at the tree line, in complete sentences. The distinction between sentient and non-sentient Silvaen runs as a quiet grief through the whole people. Some feel guilt for an awareness others did not receive; some fear that awareness is not a gift but a fall, a divergence from the forest’s pure and thoughtless harmony; and some believe, most hopefully, that their sentience is simply the forest learning, at last, to care. To outsiders the Silvaen are unnerving — people of bark and leaf who stand too still, whose faces seem half-remembered, whose eyes give back the forest to anyone who looks. Those who earn their trust find them patient, thoughtful, and deeply moral: beings who understand, better than most, that growth without thought is dangerous, and that thought without roots is worse.
 
-> **Master Mimics.** Whenever a Silvaen observes another creature using a skill, the Silvaen may also use that skill at two dots less effectiveness — unless the Silvaen already has more dots in that skill.
+> **Master Mimics.** After observing a creature use a Skill, a Silvaen may use that creature’s rating minus 2 (minimum 1) for the same kind of action until the scene ends. Use the Silvaen’s own rating if higher.
 
 ------------------------------------------------------------------------
 
@@ -132,7 +132,7 @@ Their physiology enables labor and war that unsettle surface-dwellers — upper 
 
 This is precisely the friction the settled world feels when it meets them. The Chyrr strike-first doctrine grinds against the Landed Guilds’ hard-won restraint — the Guilds’ whole neutrality is built on *not* escalating, and a Chyrr reads the pause before a necessary blow as the negligence that gets people killed — and the Chyrr Watchposts along the Cradle’s edges are famed as much for their prickly diplomacy as for their impregnability. Chyrr adventurers are rare. Those who leave do so because they believe the surface world hides threats their people cannot afford to ignore, or because they can no longer endure a life in which readiness never ends. Wherever they go, they watch first, act second, and rest only when every shadow has been measured.
 
-> **Four Arms.** A Chyrr has two upper arms and two smaller lower arms. The upper pair functions as ordinary arms. The lower pair can hold (but not wield as weapons) Light objects, items, or shields. A Chyrr may use the lower arms to counterbalance weapons, allowing them to wield two two-handed weapons simultaneously.
+> **Four Arms.** A Chyrr’s lower arms may hold, draw, stow, or pass Light objects and tools, but cannot attack or grant an additional shield benefit. They may keep two extra Light items ready and may reload a Slow weapon while the upper arms continue holding it; this does not remove the Momentum cost.
 
 ### Korr
 
@@ -146,7 +146,7 @@ The young feel the restlessness as physical pressure, and their metabolism does 
 
 Korr who leave are not exiles, but they are watched go with a specific sorrow. They are not wrong to leave, most elders will quietly admit; they are only choosing breadth over depth, many things seen against one place known completely, and whether that trade is wise is a judgment only the dying can render, and the dying rarely have time left to speak it. There is one road the elders find hardest to name, and it is the one that runs to the Witnesses of the Lion. Two peoples in all the world have organized themselves around witness — the Korr from the heights, the Lions in the thick of it — and they have argued the meaning of the word for a century, the Korr holding that true witness requires the whole seen from above and undeceived, the Lions holding that witness which will not close the distance is only spectation wearing a serious face. The argument is conducted with complete mutual respect and no progress whatsoever, and meanwhile the young Korr who leave the cliffs are drawn to the Circuit Rider’s road beyond any other calling, finding in it a way to spend a short life seeing *closely* that their own elders cannot quite bring themselves to condemn. The most famous of them served thirty-one years — most of a Korr life — and her home cliff entered her name in its watch-records as *one who descended, and saw*. The elders watch them go. They remember every one.
 
-> **Flight.** Korr have a fly speed of 3 tiles with average maneuverability. Flight is metabolically expensive. Out of combat, a Korr may fly for a number of minutes equal to their dots in Athletics (minimum 1) before landing to rest an equal time. In combat, a Korr may fly for a number of rounds equal to their dots in Athletics (minimum 1), then must land and cannot move for an equal number of rounds.
+> **Flight.** Korr have Fly 6". They may remain airborne for rounds equal to Athletics (minimum 1), counted at the start of their side’s surge, then must land and become Fatigued until they spend an equal number of rounds grounded. Outside combat, use minutes instead of rounds.
 
 ### Squar
 
@@ -156,7 +156,7 @@ For all their size and strength the Squar do not dominate their land. They endur
 
 So the Squar exist half as people and half as rumor, and they cultivate the uncertainty on purpose, leaving just enough sign to inspire doubt and caution and never enough to constitute proof. Legends of towering watchers and vanished camps guard them better than any wall. But the invisibility has a cost. Whole routes are forgotten. Names fade. And some Squar carry a private dread that one day they will survive so completely that they are erased — a people who vanished not by dying but by succeeding at disappearance. Squar adventurers are rare and quietly controversial, for to walk openly is to choose visibility, and visibility invites the danger the whole culture is built to avoid. Some leave believing secrecy has gone too far, that strength should sometimes be used in the open; others are exiled for revealing themselves, or for refusing to stay quiet about what they have done. Every Squar who walks among other peoples carries the same unanswered question: how much of myself can be seen before the myth breaks?
 
-> **Living Myth.** Once per scene, as a free action, a Squar may become invisible to anyone not watching them directly. Hostile creatures who could not see the Squar at the moment of activation lose track of them entirely until the Squar reveals themselves, and Track checks made against the Squar take a $`-2`$ penalty for the next 24 hours.
+> **Living Myth.** Once per scene as a free action, while no hostile creature is watching directly, a Squar becomes unseen. The effect ends when the Squar attacks, enters open view, or chooses to reveal themself. Survive rolls to follow their trail lose 2 dice for the next 24 hours.
 
 ------------------------------------------------------------------------
 
@@ -170,7 +170,7 @@ Barudrim culture takes danger as a proving ground rather than a curse. Life is t
 
 Most Barudrim now live alongside agricultural allies who feed them, and in return become professional protectors — not for love of violence but because their culture leaves few other ways to honor strength, and to stand idle while others suffer is the deepest shame. They are, unsurprisingly, among the most sought soldiers on the Mercenary Rolls, and the finest of them command; the General of the Long March, the largest muster in the trade, is Barudrim, and holds her title with the granite patience her people are known for. Barudrim leave their own for many reasons: some hunt greater threats and grander sagas than the plains can offer; some weary of a culture that never slows, where joy and danger are inseparable and rest itself feels like failure; and a few leave for the quietest fear of all — that their love for one person might, one day, outweigh their duty to the many.
 
-> **Defiant Heart.** Once per scene, when reduced to half hit points or below, a Barudrim may take a free action to gain a $`+1`$ morale bonus on attack rolls, damage, and saving throws until the end of their next turn.
+> **Defiant Heart.** Once per scene as a Reaction when a Barudrim suffers a major wound, gain +1 Attack Die, +1 Damage, and +1 die on Alignment saves until the end of their side’s next surge.
 
 ### Human
 
@@ -180,7 +180,7 @@ Human societies are rarely still. They expand, migrate, rebuild, and reinvent at
 
 It is worth saying plainly what that restlessness has meant for this particular world, because the setting is quietly built on it. The expansion the Wild resists — the rails driven into sovereign country, the Companies founded and the frontier fictions maintained, the endless pressure of settlement against a wilderness that pushes back — is overwhelmingly a *human* enterprise. Humans are the species most likely to be found unaffiliated and the species most likely to have built the institution doing the affiliating, the ones who staff the Companies and the Lions and the boards in disproportionate number, and the ones whose talent for outgrowing their own arrangements is precisely why the arrangements keep multiplying. Longer-lived peoples watch human institutions rise and fall and rise again with a weariness humans rarely notice; the Wild, if the Wardens are right about anything, does not distinguish among the peoples of the settled world so much as it distinguishes the *claim* — and the claim, more often than not, is human-shaped. Human adventurers are rarely the strongest or the most graceful in a company. They are, reliably, the last to give up, and the frontier is the monument to what that stubbornness builds and refuses to stop building.
 
-> **Built for Endurance.** A human may travel 2 hours longer per day before risking exhaustion checks, and lasts an additional round at or below 0 hit points before dying.
+> **Built for Endurance.** A human may travel 2 hours longer per day before risking fatigue. When Dying, they die at the end of their side’s second surge rather than its next surge.
 
 ### Mairin
 
@@ -202,7 +202,7 @@ Beneath the masks the Nol remain a deeply communal people. Among their own the m
 
 The frontier has lately handed that old argument a new and unwelcome vindication. The Nol masks work — demonstrably, measurably — against exactly the kind of thing the settled world is only now learning to name: the hunters of the Nightmare, the predators of the unseen world that stalk by familiarity, which leak into the waking world wherever the boundary thins and are worst on the Frozen Coast in the long dark. The Witnesses of the Lion’s northern chapters have recruited Nol quietly for two generations, and the mortal-colors Mercenary company known as the Pale Riders — who hunt what the Shadow leaves behind and field nothing that can be turned against them — rides under a Nol commander. Nowhere is a Nol more valued than in the places where the old masks are suddenly, urgently, no longer superstition; and nowhere does the argument between the Nol who remember the masks as prayer and the Nol who wear them as threat cut deeper. To meet a Nol in armor is to meet a warning. To meet a Nol unmasked is to meet a person who understands fear intimately, and refuses to let it rule them.
 
-> **Cultivated Reputation.** Nols gain a free dot in Intimidate and may hold one more dot than normally allowed in Intimidate.
+> **Cultivated Reputation.** After allocating Skills, a Nol gains +1 Intimidate and may exceed the current Intimidate cap by 1.
 
 ### Pelorim
 
@@ -212,7 +212,7 @@ Pelorim who break this expectation are not hated, but they are no longer trusted
 
 What the wider world owes the Pelorim it has largely forgotten, though the Pelorim have not. When the Second Boundary War ground toward its end and no faction of the settled world could speak to the Wild, it was Pelorim route-keepers and a handful of Wardens who carried the terms of the Winter Concession between parties that shared no other channel — and among that peace’s provisions is the standing treaty, held jointly by the Pelorim and the Witnesses of the Lion to this day, that keeps the Trade Companies’ rails out of the Plains-of-the-Long-Walk. The Pelorim are, in a real and under-acknowledged sense, one of the two functioning diplomatic instruments civilization possesses for the thing that broke the nations, and they keep that role the way they keep everything: in memory, in motion, and without writing any of it down.
 
-> **Quadruped.** Pelorim are quadrupedal. They cannot wear armor or wield weapons designed for bipeds without modification (typically doubling the cost), but they gain a 2-dot bonus to Athletics checks involving running, have a base land speed of 2 tiles, and may carry a party member of less than Large size on their back.
+> **Quadruped.** Pelorim have Move 4" and gain +2 dice on Athletics rolls involving running. They may carry one creature smaller than Large. Armor and weapons designed for bipeds require modification, normally doubling price; ordinary access should not require repeated surcharges after the item is fitted.
 
 ------------------------------------------------------------------------
 
