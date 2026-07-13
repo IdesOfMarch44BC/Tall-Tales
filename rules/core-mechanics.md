@@ -186,7 +186,7 @@ A power is a reusable capability written on the character sheet. It may be a pra
 
 Every power lists:
 
-- **Power Level (PL), from 0 to 10.** This measures complexity and sets the total dot requirement. PL 0 powers require no dots; every other power’s required dots total its PL.
+- **Power Level (PL), from 0 to 10.** This measures complexity and sets the total dot requirement. PL 0 powers require no dots; every other power’s required dots total its PL. Each PL above 0 unlocks at character level (2 × PL) − 1; see *Starting Powers and Learning More*.
 - **Alignment requirement.** Spend all listed dots simultaneously from the matching available reserves. A requirement may draw from several Alignments: **Heavens 1 + Wild 1**, for example, makes holy fire both holy and fire.
 - **Timing and tags.** These say whether it is an action, Reaction, Stance, limited use, physical preparation, or institutional privilege.
 - **Effect.** Resolve exactly what is printed. A specific power overrides a general rule.
@@ -226,29 +226,44 @@ Outside a structured encounter, do not track Momentum or reserve depletion unles
 
 ### Starting Powers and Learning More
 
-At creation, learn the number of **class powers** shown below from your archetype’s PL 0 and PL 1 entries. Also learn **one PL 0 or PL 1 species power** and **one PL 0 or PL 1 faction power**; an unaffiliated character chooses the latter from the Unaffiliated list. All ten classes now have complete lists — Volumes 1–2 for Witness through Sawbone, Volume 3 for the Captain, Bounty Hunter, and Shapeshifter.
+**Power Levels are gated by character level.** PL 0 is available from 1st level. Each PL above 0 unlocks at character level **(2 × PL) − 1**. No route — class list, cross-training, faction, species, or the world — reaches past this gate. Cross-training into an adjacent Discipline treats the power as one PL higher for the gate; its printed requirement does not change.
 
-| Class | Starting class powers | Class powers learned at each later level |
-|:--|:--:|:--:|
-| Arcanist, Tinkerer, Sawbone | 5 | 2 |
-| Drifter, Mentalist | 4 | 1 |
-| Witness, Dynast, Captain, Bounty Hunter, Shapeshifter | 3 | 1 |
+| PL | Level | | PL | Level |
+|:--:|:--:|:--:|:--:|:--:|
+| 0–1 | 1st | | 6 | 11th |
+| 2 | 3rd | | 7 | 13th |
+| 3 | 5th | | 8 | 15th |
+| 4 | 7th | | 9 | 17th |
+| 5 | 9th | | 10 | 19th |
 
-When you gain a level, each new class power must have a printed PL no higher than your new character level. Cross-training into a sibling archetype treats the power as one PL higher for learning eligibility, though its printed requirement does not change.
+This curve is the game's power curve, and it names four bands of play. **Levels 1–2** are armed and competent professionals. **Levels 3–6** are action-movie heroes. **Levels 7–12** are clearly superhuman, past what conventional human enemies can answer. **Levels 13–20** are city-ending threats. A PL is a statement of scale within that arc: a PL 5 working is the peak of what heroes do, a PL 8 working is why the superhuman are spoken of carefully, and PL 9–10 are the reason certain names are not said at all.
 
-**Learning from the world.** Powers earned through teachers, faction training, a species tradition, a captured technique, a creature, a site, a book, or a major event are added beyond the class progression; they never replace a known power. The GM may require instruction, a deed, materials, or downtime. The power’s PL cannot exceed the character’s level, and the character must be able to meet its printed requirement from their permanent Alignment ratings.
+**PL 0 powers are minor tricks you can use all day.** They require no dots. Outside a structured encounter, use them freely and as often as the fiction tolerates; inside one, they are ordinary actions (1 Momentum).
 
-Use the following scale when deciding what learning requires. It is guidance for fictional weight, not a price list:
+**At creation**, learn the number of class powers shown in *Character Creation* from your opened Disciplines' PL 0 and PL 1 entries, plus **one PL 0–1 species power** and **one PL 0–1 faction power** (Unaffiliated characters choose the latter from the Unaffiliated list).
 
-| PL | Typical way it enters the character’s life |
+**Every level thereafter: +1 class power**, chosen from your opened Disciplines at printed PL (adjacent Disciplines at +1 PL for eligibility). This grant is deliberately lean. It is the practice floor — what discipline and repetition alone yield — and it is not where a great practitioner's breadth comes from.
+
+**The world teaches the rest.** Most of what a seasoned practitioner knows was never issued by their calling; it was learned — from teachers and rivals, reliquary texts, factions, species elders, singular sites, captured techniques, sovereign creatures, and the housed dead. World-learning has **no cap**. It is limited only by the level gate, by your permanent Alignments (you must be able to meet a power's printed requirement), and by what the world charges. To learn a power from the world you need:
+
+1. **A source.** Someone or something that holds the power: a living teacher, a text or reliquary, a master observed at length, a faction curriculum, a site, an entity willing to bargain.
+2. **An opening.** The first power learned from a Discipline nothing has yet opened to you is an **initiation** — it requires a real relationship: an apprenticeship accepted, an oath sworn, a grimoire stolen *and mastered*, a bargain struck. Once initiated, the Discipline is opened to you as **adjacent** (+1 PL to learn). A completed apprenticeship arc may, at the GM's discretion, grant it at **primary** standing instead — or raise a long-practiced adjacent Discipline to primary. A character's Discipline spread is their biography.
+3. **Time.** Taught properly: **days equal to the power's PL** (minimum one) of instruction and practice. Self-taught from a text or from observation: **twice that**, plus a **Study, Folklore, or Religion test** (GM's choice by subject) needing successes equal to half the PL, rounded up — one attempt per downtime, with further study permitting retries.
+4. **The price.** Whatever the source charges: Rings, favors, oaths, service, secrecy, blood. Use the scale below as guidance for fictional weight, not a price list.
+
+| PL | Typical way it enters the character's life |
 |:--:|:--|
 | 0–1 | A lesson, observation, cultural practice, field manual, or one meaningful scene with a teacher |
 | 2–3 | Focused downtime, repeated practice, a favor, a captured technique, or a test with consequences |
 | 4–5 | A rare mentor, dangerous procedure, faction initiation, significant hunt, or dedicated adventure |
-| 6–8 | A major campaign arc, singular site or creature, forbidden archive, transformation, or institution’s deepest trust |
+| 6–8 | A major campaign arc, singular site or creature, forbidden archive, transformation, or institution's deepest trust |
 | 9–10 | A campaign-defining discovery or relationship that changes how the character and world understand one another |
 
-The existing lists are examples, not the boundary of the world. When play teaches a new power, give it a PL from 0–10, assign requirements whose dots total that PL, and make every required Alignment part of how the power works. A mixed requirement is a statement of nature, not merely a balance cost.
+World-learned powers never replace a known power, and a taught Discipline normally culminates at PL 6–8: **PL 9–10 powers are only ever learned from the world** — the name taken from a sovereign, the rite completed at a singular site, the invention no school can repeat.
+
+**What this adds up to.** A 13th-level Arcanist who chased knowledge holds roughly: five powers from creation, twelve from levels, every PL 0 of her opened Disciplines, and fifteen to twenty-five learned from the world — a grimoire of several dozen, most entries with a story attached. Two characters of the same class and level should differ mainly in *where they have been*.
+
+**Building new powers.** The printed lists are examples, not the boundary of the world. When play teaches a power that does not exist yet, give it a PL from 0–10, assign requirements whose dots total that PL, and make every required Alignment part of how the power works — a mixed requirement is a statement of nature, not merely a balance cost. As a guideline, the largest single-Alignment dot in a requirement should be about **half its PL, rounded up**, so that deep powers remain payable by characters whose ten dots are bent, not broken, toward two planes.
 
 **Faction changes.** Training powers remain known. A Standing power remains usable only if the reputation behind it survives. An Access power becomes unavailable when the institutional relationship ends, though it remains recorded and can return if access is restored. Joining a faction grants no powers automatically; each is learned when the relevant training, standing, or access is actually earned.
 

@@ -15,7 +15,7 @@ Nothing under the mechanical hood changes. Every power still carries:
 - **timing and tags** (Reaction, Stance, Once per scene, Troop, Sacrifice, and the rest);
 - an **effect**, resolved exactly as printed.
 
-The **powers-known** progression is unchanged (see *How the Game Works*): your class still sets how many powers you know at creation and how many you gain per level, and you still learn one species and one faction power at creation. What changes is the *menu* those choices draw from: your granted Disciplines, rather than a single archetype.
+The **powers-known** progression (see *How the Game Works*) is deliberately lean: your class sets your starting powers, every level grants **+1** from your opened Disciplines, and each PL above 0 unlocks at character level **(2 × PL) − 1** — PL 3 at 5th, PL 7 at 13th, PL 10 at 19th. Everything beyond that floor is **learned from the world**, without cap: teachers, texts, sites, factions, species elders, sovereign creatures. The Discipline model exists to serve that economy — a Discipline is a thing in the world that can be *opened*, and a practitioner's spread of Disciplines and the stories behind each initiation are their biography. You still learn one species and one faction power at creation; what changes is the menu every choice draws from.
 
 ### Governing Alignment
 

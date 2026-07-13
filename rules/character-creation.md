@@ -43,13 +43,13 @@ Your class sets the combat line and the two damage thresholds. (Targets: lower i
 
 ### Starting Powers Known
 
-| Class | Class powers at creation | Class powers learned at each later level |
+| Class | Class powers at creation | Class powers at each later level |
 |:--|:--:|:--:|
-| Arcanist, Tinkerer, Sawbone | 5 | 2 |
+| Arcanist, Tinkerer, Sawbone | 5 | 1 |
 | Drifter, Mentalist | 4 | 1 |
 | Witness, Dynast, Captain, Bounty Hunter, Shapeshifter | 3 | 1 |
 
-These are class powers only. Every character also begins knowing one species power and one faction or Unaffiliated power. All starting powers must be PL 0 or PL 1. Technical specialists learn more because their combat line assumes broad power access; weapon-focused classes receive stronger base statistics and begin with fewer powers.
+These are class powers only. Every character also begins knowing one species power and one faction or Unaffiliated power. All starting powers must be PL 0 or PL 1. Technical specialists start broader because their combat line assumes power access; weapon-focused classes receive stronger base statistics. After creation the granted pace is the same lean +1 per level for everyone — a practitioner's real breadth is learned from the world (see *Starting Powers and Learning More* in *How the Game Works*), so two Arcanists of the same level differ mainly in where they have been.
 
 **Species adjustments.** Species traits modify the class line where they say: Pelorim Move is 4" before other modifiers; Korr fly 6" within the trait’s limits; Gorûn and Serekh count as Large where equipment cares.
 
@@ -75,14 +75,14 @@ Each Form also carries an **instinct** chosen with the GM—pursue fleeing prey,
 
 ## Advancement
 
-Characters begin at **level 1** with the creation benefits above; do not also apply advancement for level 1. The core progression runs through **level 10**. Whenever a character gains a later level, apply every benefit listed for that new level; bonuses are cumulative unless stated otherwise.
+Characters begin at **level 1** with the creation benefits above; do not also apply advancement for level 1. The progression runs through **level 20**, in four bands: levels 1–2 are armed and competent professionals, 3–6 action-movie heroes, 7–12 clearly superhuman, 13–20 city-ending threats. *(The rows below are still written for the original ten-level draft; extending skills, thresholds, deeds, and stat bumps across all twenty levels is a queued revision — the powers row is current.)* Whenever a character gains a later level, apply every benefit listed for that new level; bonuses are cumulative unless stated otherwise.
 
 
 |  |  |
 |:---|:---|
-| **Every gained level (L2–L10)** | Learn the number of class powers shown above (PL ≤ level); +1 skill point (caps: 5, then 7 at L5+, 10 at L9+) |
+| **Every gained level (L2–L10)** | +1 class power — each new power's PL must be unlocked by level: PL available at (2 × PL) − 1; +1 skill point (caps: 5, then 7 at L5+, 10 at L9+) |
 | **Even levels** | +1 Deed rank (new deed at I, or upgrade one held) |
-| **L3 / L6 / L9** | Move one permanent Alignment dot to another Alignment; the per-Alignment cap becomes 4 / 5 / 6 respectively. The total remains 10. |
+| **L3 / L6 / L9 (then L12 / L15 / L18)** | Move one permanent Alignment dot to another Alignment; the per-Alignment cap becomes 4 / 5 / 6 and holds at 6 thereafter. The total always remains 10 — a life's ten dots are re-aimed, never multiplied. |
 | **Shapeshifter L3 / L6 / L9** | Learn one additional specific Form |
 | **L4 / L8** | +1 Moderate threshold *and* +1 Major threshold |
 | **L5 / L7 / L9** | +1 to one of Strike, Shoot (improve target by 1, min 2+) or Defend (max 3) — a different stat each time |
