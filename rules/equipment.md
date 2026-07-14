@@ -24,7 +24,7 @@ A working guide to scale: a meal is a tenth-Ring; a night’s bed, half; a week�
 | Bayonet (fixed) | 2 | — | 3 | — | On a long arm; Reach | 2 |
 | Bone-blade (Ostrogar-work) | 3 | — | 4 | 1 | Never dulls | 20 |
 | Unarmed / natural weapon | 1 | — | 2 | — | Blunt unless a trait says otherwise | — |
-| Mentalist mind blade | 3 | — | 4 | 1 | Psychic, Manifested | — |
+| Bounty Hunter mind blade | 3 | — | 4 | 1 | Psychic, Manifested | — |
 
 
 Melee weapons deal **Pierce** (knife, spear, bayonet), **Slash** (saber, axes), or **Blunt** (club, maul) as fits the blow; mixed weapons choose per attack.
@@ -45,12 +45,12 @@ Melee weapons deal **Pierce** (knife, spear, bayonet), **Slash** (saber, axes), 
 | Bow | 2 | — | 3 | — | 18" | Silent | 5 |
 | Crossbow | 2 | — | 5 | 1 | 18" | Slow, Silent | 15 |
 | Thrown spine (Serekh) | 2 | — | 2 | — | 6" | Always armed | — |
-| Mentalist mind gun | 3 | — | 4 | — | 12" | Psychic, Manifested | — |
+| Bounty Hunter mind gun | 3 | — | 4 | — | 12" | Psychic, Manifested | — |
 
 
 Firearms and bows deal **Pierce** unless ammunition or an effect changes the type. A dash in **To-Hit** means no modifier. A positive To-Hit modifier worsens the Strike or Shoot target number; a negative modifier improves it, to a minimum of 2+.
 
-**Manifested weapons.** A Mentalist chooses a mind blade or mind gun as part of their kit; a Bounty Hunter may choose a mind gun in place of the starting revolver. Manifesting or dismissing it is free during your side’s surge. It requires no ammunition, cannot be conventionally disarmed, and deals **Wyrd** damage. An effect that suppresses psychic power dismisses it until the effect ends.
+**Mind Weapon.** The Bounty Hunter class feature manifests either profile above once per surge as a Free action and dismisses any previous form. It consumes no power selection, Alignment, or d100 roll. The weapon needs no ammunition, cannot be conventionally disarmed, and deals **Wyrd** damage. An effect that suppresses Psionics dismisses it until the suppression ends. A Mentalist may later create weapon-like effects through an appropriate printed technique, such as Force Construct, but does not receive this class feature.
 
 **Ammunition.** Ordinary ammunition is abstract during an encounter; a character with a firearm and a stocked kit can fire repeatedly. After an extended fight or ammunition loss, the GM may mark off a box (1 Ring). Only **Slow** weapons require a reload action between attacks. **AP rounds** add +1 AP, or +2 AP for long arms, and cost 3 Rings per encounter’s supply. **Quality loads** add +1 Attack Die to one attack and cost 2 Rings per shot.
 
@@ -96,6 +96,9 @@ Armor is worn as a set and gives your **Armor save**; Negation comes from elsewh
 | War shield | +1 Defend | — | At the start of your side’s surge, you may brace: +2 Defend vs Shoot and Move 0 until your side’s next surge | 12 |
 
 
+**Arcane Burden.** An Arcanist cannot benefit from an Armor save granted by worn gear: the literal arcane mass already accumulated in their body makes bearing armor impractical. They may use shields and Negation normally. Witnesses do not accumulate that mass and have no such restriction.
+
+
 **Negation.** Rare by design; Armor-Piercing never touches it, and planar wounds respect little else.
 
 
@@ -119,19 +122,19 @@ Each class starts with its kit and **10 Rings**:
 
 - **Drifter:** revolver, repeating carbine, bow, or shotgun; riding leathers, bedroll, trail kit, and one keepsake from a deed already done.
 
-- **Arcanist:** the chained book, derringer, duster, ward-chalk, Enclave ward-token.
+- **Arcanist:** the chained book, derringer, unarmored field coat, ward-chalk, Enclave ward-token.
 
 - **Dynast:** weapon of the line (saber, bone-blade at Houses’ discretion, or heavy revolver), riding leathers, signet.
 
-- **Mentalist:** manifested mind blade or mind gun, duster, meditation focus or psicrystal.
+- **Mentalist:** saber, duster, meditation focus or psicrystal.
 
 - **Tinkerer:** revolver, duster, Guild tools (proper), 2 storage cells, hall papers.
 
-- **Sawbone:** revolver, duster, the bag (proper instruments; Consumable powers stocked), hall papers.
+- **Sawbone:** revolver, duster, the bag (proper instruments; starting Superscience doses and devices stocked), hall papers.
 
 - **Captain:** carbine *or* heavy revolver, riding leathers, the ledger, stock license, colors.
 
-- **Bounty Hunter:** revolver or mind gun, knife, duster, manacles, seal-tag, one writ (the GM writes the name).
+- **Bounty Hunter:** Mind Weapon class feature, knife, duster, manacles, seal-tag, one writ (the GM writes the name).
 
 - **Shapeshifter:** no-iron kit (bronze knife, bone-tipped spear), pelt or walking clothes per tradition, relay tokens.
 

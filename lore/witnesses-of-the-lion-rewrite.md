@@ -108,6 +108,18 @@ The practical result is regional. Where the mainline holds, working relationship
 
 ------------------------------------------------------------------------
 
+## Revelation, Observance, and Silence
+
+A Witness's miracles are Magic, though the Lions rarely use the Enclaves' word for it. The Witness does not derive a formula. They recognize a revealed shape—sometimes in doctrine, sometimes in a dream, sometimes all at once under pressure—and channel extraplanar power through it. The distinction between instinct and revelation matters to theology. At the table, both are spells and both are dangerous to retain.
+
+What a Witness does **not** carry is arcane mass. Magic still describes real matter and energy, but the higher force answering the revelation bears that mass rather than leaving it in the mortal channel. A veteran Witness does not grow physically heavier with a career of miracles and can wear armor normally. This is not proof that revelation is safer: the answer can still close, Observances can still be twisted, and the force that carried the weight also chose to answer.
+
+Every revealed working carries **Observances**: a spoken truth, an offered mercy, a relic, a vigil, a particular light, the consent of the person aided, or some other condition that keeps the prayer honest. A Witness may set an Observance aside. The prayer still receives a literal answer, but the GM gives it a Twist arising from the omitted duty or protection. The Heavens are not a vending machine and a Twist is not divine spite; it is what happens when a mortal asks a bounded force to honor the destination while discarding part of the road.
+
+After the answer, the revelation may fall silent. Roll the ordinary Magic forget chance—five percent per PL. On a loss, the Witness remembers the prayer and what it meant but cannot reach its living shape again until the next daily recovery. Lions call this **the closed eye**, teach that it is neither censure nor proof of unworthiness, and still struggle not to take it personally when it happens at the worst possible hour.
+
+------------------------------------------------------------------------
+
 ## The Celestial Dimension
 
 The Lions are a mortal organization with celestial leadership, and the join between the two is the most unusual structural fact about them.
@@ -216,7 +228,7 @@ A party need hold no Lions member at all to spend a campaign inside the Lions’
 
 A Lions character should name their home chapter or circuit, sponsor, rank, and the community whose faces prevent “the mission” from becoming an abstraction. Decide which track trained you even if your current work crosses both: martial formation, traveling ministry, intelligence, logistics, or pastoral care. Describe how you wear the Open Eye in the Mane and the honest fear or doubt your formation has already heard you name aloud.
 
-A Witness should define their Spark of Faith through practice rather than creed alone: what does prayer look like under pressure, what form does grace take, and what sacrifice are they too ready to offer? Name a celestial teaching you accept, one doctrinal interpretation you question, and a person outside the Lions whose moral judgment you trust.
+A Witness should define their Spark of Faith through practice rather than creed alone: what does prayer look like under pressure, what form does grace take, and which Observance are they too ready to ignore? Name a celestial teaching you accept, one doctrinal interpretation you question, a spell whose silence frightens you, and a person outside the Lions whose moral judgment you trust.
 
 The organization’s roles remain part of the fiction even though **Witness** is the player class: Zealot and Circuit Rider describe service, posting, and training, not separate mechanical classes. A Witness may have served either role or moved between them.
 
@@ -224,7 +236,7 @@ The organization’s roles remain part of the fiction even though **Witness** is
 
 The Lions can provide sanctuary, trusted couriers, trained formations, community intelligence, moral authority, and access to celestial counsel. They cannot answer every call, command celestials as assets, remain neutral about visible suffering, or intervene without changing the political weather.
 
-Make prayer specific. Aid should answer the person and situation addressed, sometimes through an obligation rather than spectacle. A Sacrifice must be chosen and meaningful; do not use it to remove player agency or demand harm unrelated to the prayer. Show the Lions at their best through attention, logistics, and return visits, not only battle.
+Make prayer specific. Aid should answer the person and situation addressed, sometimes through an obligation rather than spectacle. When an Observance is ignored, let the spell work and make the Twist follow the omitted condition; do not use it to negate the player's purpose. Treat forgetting as dangerous silence, not moral judgment. Show the Lions at their best through attention, logistics, and return visits, not only battle.
 
 **GM questions:** Who has the Lions witnessed but not helped? Which mandate exceeds this chapter’s resources? What honest admission would change the formation’s next decision?
 

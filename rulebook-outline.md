@@ -30,10 +30,10 @@ The core rulebook is organized in five parts plus a power compendium and appendi
 
 | Ch. | Chapter | Status | Current source | Remaining work |
 |:--:|:--|:--:|:--|:--|
-| 5 | Character Creation | ✅ | `rules/character-creation.md` | Character-sheet layout and playtest examples |
-| 6 | The Seventeen Peoples | ✅ | `lore/species-rewrite.md`; `powers/species-power-lists.md` | Layout only |
-| 7 | The Ten Classes | ✅ | `rules/character-creation.md`; `powers/class-power-lists.md`; Volumes 1–3 | Layout; playtest tuning |
-| 8 | Factions and Allegiance | ✅ | `powers/faction-power-lists.md`; `lore/unaffiliated-rewrite.md`; core severance rules | Consolidate into a website/book chapter |
+| 5 | Character Creation | 🔶 | `rules/character-creation.md` | Supply converted starting entries, character-sheet layout, and playtest examples |
+| 6 | The Seventeen Peoples | 🔶 | `lore/species-rewrite.md`; `powers/species-power-lists.md` | Separate ordinary Traits from sourced supernatural entries |
+| 7 | The Ten Classes | 🔶 | `rules/character-creation.md`; `powers/disciplines.md`; `powers/class-power-lists.md` | Convert the legacy volume entries into the five source formats |
+| 8 | Factions and Allegiance | 🔶 | `powers/faction-power-lists.md`; `lore/unaffiliated-rewrite.md`; core severance rules | Separate Training/Standing/Access Traits from sourced supernatural entries |
 | 9 | Deeds | ✅ | `rules/deeds.md` | Playtest tuning |
 
 ## Part III — Rules of Play
@@ -70,18 +70,18 @@ The combat chapter now uses one procedure for all **14 damage types**: nine comm
 
 | Ch. | Chapter | Status | Current source | Remaining work |
 |:--:|:--|:--:|:--|:--|
-| 31 | Powers Known and Alignment Reserves | ✅ | `rules/core-mechanics.md` | Extract as a standalone reference page if desired |
-| 32 | Class Powers, Volume 1 | ✅ | `powers/class-powers-vol1.md` | 13 archetypes × 15 powers; tune in play |
-| 33 | Class Powers, Volume 2 | ✅ | `powers/class-powers-vol2.md` | 9 archetypes × 15 powers; tune in play |
-| 34 | Class Powers, Volume 3 | ✅ | `powers/class-powers-vol3.md` | 11 archetypes × 15 powers (Captain, Bounty Hunter, Shapeshifter); tune in play |
-| 35 | Species Power Lists | ✅ | `powers/species-power-lists.md` | 17 lists × 5 powers |
-| 36 | Faction and Unaffiliated Power Lists | ✅ | `powers/faction-power-lists.md` | 10 lists × 5 powers |
+| 31 | The Five Power Sources and Alignment | ✅ | `rules/core-mechanics.md`; `powers/disciplines.md` | Playtest the source-specific Alignment economies and risk curves |
+| 32 | Legend and Magic Entries | 🔶 | `powers/class-powers-vol1.md` (legacy bank) | Rewrite Captain/Drifter as Legend and Arcanist/Witness as Magic |
+| 33 | Psionics and Superscience Entries | 🔶 | `powers/class-powers-vol2.md` (legacy bank); psionic catalog in `powers/disciplines.md` | Write result ladders for 45 Psionic techniques; write principles and device recipes |
+| 34 | Occult Contracts | 🔶 | `powers/class-powers-vol1.md`; `powers/class-powers-vol3.md` (legacy banks) | Write Dynast patron gift lists and Shapeshifter form contracts |
+| 35 | Species Entries | 🔶 | `powers/species-power-lists.md` (legacy bank) | Separate Traits from sourced supernatural entries |
+| 36 | Faction and Unaffiliated Entries | 🔶 | `powers/faction-power-lists.md` (legacy bank) | Separate Training/Standing/Access Traits from sourced supernatural entries |
 
 ## Appendices
 
 | App. | Content | Status | Remaining work |
 |:--:|:--|:--:|:--|
-| A | Character sheet | 🔶 | Add powers known and available/permanent Alignment reserve tracking |
+| A | Character sheet | 🔶 | Add source-specific known lists, d100 ladders, devices and Operating Requirements, contracts, and spent/committed/staked Alignment tracking |
 | B | Wound-table quick reference | 🔶 | Extract the 14 tables from combat for print/site use |
 | C | Rules and status glossary | ✅ | Present in `rules/core-mechanics.md` and `rules/combat-mechanics.md`; optionally combine |
 | D | Player-safe timeline | 🔶 | Trim from `lore/timeline.md` |
@@ -90,11 +90,12 @@ The combat chapter now uses one procedure for all **14 damage types**: nine comm
 
 ## Remaining Work, Prioritized
 
-1. Define named-threat statistics and write the bestiary.
-2. Compile the regions and cosmology into dedicated player-facing chapters.
-3. Add the unified travel and downtime procedure.
-4. Extract player-safe and GM-only information into their final homes.
-5. Playtest Momentum economy, Alignment requirements, powers known, wound lethality, weapons, armor, Recovery, and power outliers — including the newly completed Volume 3 lists (Captain Momentum economy, Free Captain action-granting, Shapeshifter Form ceilings).
-6. Build the character sheet, quick references, glossary, and index for publication.
+1. Convert the legacy class volumes into Legend, Magic, Occultism, Psionics, and Superscience entries; then classify species and faction entries.
+2. Define named-threat statistics and write the bestiary.
+3. Compile the regions and cosmology into dedicated player-facing chapters.
+4. Add the unified travel and downtime procedure.
+5. Extract player-safe and GM-only information into their final homes.
+6. Playtest Momentum, Alignment spending/commitment/staking, Magic forgetting, Occult Breaches, Psionic Overruns, Superscience Operating Requirements, wound lethality, weapons, armor, and Recovery.
+7. Build the character sheet, quick references, glossary, and index for publication.
 
-The core mechanics no longer depend on a draw/discard deck, placeholder arrays, Hit Dice, primary ability scores, hit points, tiles, or competing turn structures. All ten class lists are now written; playtest tuning is the remaining mechanical work, rather than missing foundations.
+The core mechanics no longer depend on a draw/discard deck, placeholder arrays, Hit Dice, primary ability scores, hit points, tiles, or competing turn structures. The five power-source engines are written and integrated into the core rules. The old class volumes remain conversion banks until their individual entries are rebuilt under those engines.

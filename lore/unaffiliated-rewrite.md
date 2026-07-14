@@ -42,7 +42,7 @@ One last observation, offered to the table rather than the setting. An adventuri
 
 An unaffiliated character should name the net they avoided, left, or were denied and the person—not merely the institution—who represented it. Decide what you lost without institutional backing and what freedom you would lose by accepting it now. Name two pieces of loose-world infrastructure you rely on: a station keeper, factor’s reference, congregation, family route, Witch-Road custom, independent teacher, or town willing to receive your mail.
 
-A Drifter should write the first Deed people tell about them, who tells it best, and which part of the story is untrue. Define a Stance as something learned through an event, not an abstract combat posture. Your Legend begins locally; name the place where it opens doors and the place where the same name starts a fight.
+A Drifter should write the first Deed people tell about them, who tells it best, and which part of the story is untrue. Define a Stance as something learned through an event, not an abstract combat posture; its committed Alignment should express what the Drifter keeps choosing while it is maintained. Define exploits by the core actions they sharpen. Your Legend begins locally; name the place where it opens doors and the place where the same name starts a fight.
 
 Unaffiliated does not mean solitary. State what the party provides that a faction otherwise would: shelter, witnesses, credit, transport, training, medical care, or simply people who come looking.
 

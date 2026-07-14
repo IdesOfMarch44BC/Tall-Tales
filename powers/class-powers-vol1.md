@@ -1,6 +1,6 @@
 ﻿# Class Power Lists, Volume 1
 
-**Power format:** **Name** — PL # — Requires Alignment # — tags — effect. Mixed requirements join Alignments with a plus sign. The required dots total the PL; PL 0 powers require none. Using a power does not erase it from the known list.
+> **Legacy conversion bank:** The entries below preserve names, Alignment footprints, and effect ideas, but they are not playable under the five-source rules as written. Convert Witness and Arcanist entries to Magic spells, Drifter entries to Legend stances or exploits, and Dynast entries into individual gifts on named patron lists with permanent physical Manifestations. The universal activation assumption is obsolete.
 
 ## Witness
 
@@ -286,7 +286,7 @@ In this archetype, a **Channel power** means any power printed under *The Open C
 
 - **The Book Remembers** — PL 3 — Requires Machine 2 + Wyrd 1 — Reaction — When an enemy uses a supernatural ability, learn what it is and one weakness.
 
-- **Borrowed Hand** — PL 3 — Requires Machine 2 + Wyrd 1 — Once per scene — Use one power known by an adjacent willing ally, paying its Alignment requirement from your reserve but no additional Momentum. Its PL cannot exceed your level.
+- **Borrowed Hand** — PL 3 — Requires Machine 2 + Wyrd 1 — Once per scene — Use one power known by an adjacent willing ally, paying its Alignment requirement from your reserve but no additional Momentum. Its PL cannot exceed half your level, rounded up.
 
 - **Errata** — PL 4 — Requires Machine 2 + Wyrd 2 — Reaction — When a power of yours fully fails, refund the dots spent on that power’s requirement.
 

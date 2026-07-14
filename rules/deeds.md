@@ -127,7 +127,7 @@ II\.
 The borrowed class power may be PL 3 or lower.
 
 III\.  
-Instead choose any class, species, faction, or Unaffiliated power with PL no higher than your character level, provided the fiction gives you some plausible exposure to it.
+Instead choose any class, species, faction, or Unaffiliated power with PL no higher than half your character level rounded up, provided the fiction gives you some plausible exposure to it.
 
 IV\.  
 Once per session, use the power chosen through this deed without paying its Alignment requirement.

@@ -1,8 +1,8 @@
 ﻿# Species Power Lists
 
-Species powers represent cultural practices, bodily techniques, and inherited traditions beyond the species trait. At creation, learn one PL 0 or PL 1 power from your species list. Other species powers can be learned through family, community, travel, or significant encounters in play.
+Species entries represent cultural practices, bodily techniques, and inherited traditions beyond the species trait. At creation, learn one PL 0 or PL 1 entry from your species list. Other entries can be learned through family, community, travel, or significant encounters in play.
 
-**Power format:** **Name** — PL # — Requires Alignment # — tags — effect. Mixed requirements join Alignments with a plus sign. The required dots total the PL; PL 0 powers require none.
+An ordinary biological or cultural entry is a **Trait**. Its Alignment line is a permanent-rating prerequisite and does not spend reserve dots. If an entry grants a supernatural act, conversion must label it Legend, Magic, Occultism, Psionics, or Superscience and rewrite its cost and risk under that source. The legacy entries below retain their names and effects as conversion material.
 
 ------------------------------------------------------------------------
 
@@ -270,5 +270,5 @@ Species powers represent cultural practices, bodily techniques, and inherited tr
 
 **The capstones are choices, not upgrades.** Nearly every PL 4–5 signature asks the character to spend something the culture holds dear — the Korr’s hours, the Squar’s myth, the Nol’s mask, the Mairin’s composure, the Serekh’s own body. Players who reach for them should feel the species chapter looking over their shoulder, and GMs should let the aftermath land: *Break the Myth* and *Unmasked* write to the Reputation line in ink.
 
-**Learning beyond creation.** A species list is not automatically known whole. Teachers, kin, rites, and cultural participation can add its powers to a character’s known list when the PL is no higher than the character’s level.
+**Learning beyond creation.** A species list is not automatically known whole. Teachers, kin, rites, and cultural participation can add its powers to a character’s known list when the PL is no higher than half the character’s level, rounded up.
 

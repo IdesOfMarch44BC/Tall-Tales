@@ -1,8 +1,8 @@
 ﻿# Faction Power Lists
 
-Faction powers represent the training an institution drilled into you (**Training** — yours forever), the person it made you to everyone else (**Standing** — retained only while the reputation survives), and the doors it opens (**Access** — which close when the relationship ends). At creation, learn one PL 0 or PL 1 power from your faction or the Unaffiliated list.
+Faction entries represent the training an institution drilled into you (**Training** — yours forever), the person it made you to everyone else (**Standing** — retained only while the reputation survives), and the doors it opens (**Access** — which close when the relationship ends). At creation, learn one PL 0 or PL 1 entry from your faction or the Unaffiliated list.
 
-**Power format:** **Name** — PL # — Requires Alignment # — tags — effect. Mixed requirements join Alignments with a plus sign. The required dots total the PL; PL 0 powers require none.
+Training, Standing, and Access are ordinarily **Traits**, not a sixth power source. Their Alignment line is a permanent-rating prerequisite and does not spend reserve dots. If an entry grants a supernatural act, conversion must label it Legend, Magic, Occultism, Psionics, or Superscience and rewrite its cost and risk under that source. The legacy entries below retain their names and effects as conversion material.
 
 ------------------------------------------------------------------------
 

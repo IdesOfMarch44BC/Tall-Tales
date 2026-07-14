@@ -28,9 +28,21 @@ The great arts, by the Table’s own reckoning:
 
 **Energetics** — the art of vim: the charging and keeping of power, storage acids and ebb-accounting, the jolt-lines that light the great halls, and the masterwork of the entire civilization, the **Constructive Heart** — the engine-organ that moves the rails and beats, the Coilwrights like to say, under everything the frontier calls progress. Energetics’ scandal is the loudest, because the Lions have made it doctrine-adjacent: if vim is truly a domesticated echo of the boundary between sky and Heaven, then every Heart is a small standing theological event, and the Coilwrights are either engineers or unlicensed clergy depending on which chapter house is asked. The Coilwrights’ formal position is that they charge by the ebb either way.
 
-Below the great three, the minor arts: **harmonics**, the resonance procedures — vibration-forging, tone-testing, the bell-founders’ strange precision, an art the Uln cold-smiths of the glacier cities practice at a refinement the lowland halls admit they license rather than match; and **somatics**, the chirurgeons’ superscience — the procedures of flesh, graft, and recovery that begin where honest anatomy ends and that the Red Thread documents with the arm’s-length rigor of people who know exactly which volumes the Enclaves and the Houses would each pay fortunes to read.
+Below the great three, the younger arts: **harmonics**, the resonance procedures — vibration-forging, tone-testing, the bell-founders’ strange precision, an art the Uln cold-smiths of the glacier cities practice at a refinement the lowland halls admit they license rather than match; **somatics**, the chirurgeons’ superscience — the procedures of flesh, graft, and recovery that begin where honest anatomy ends and that the Red Thread documents with the arm’s-length rigor of people who know exactly which volumes the Enclaves and the Houses would each pay fortunes to read; and **wayfinding**, the reproducible fixing of routes, anchors, and folded distances through country whose geography does not always consent to measurement. The Companies want wayfinding standardized. The Wardens regard that sentence as a concise threat assessment.
 
 And through all of it, the heterodoxy: **the Whyseekers** — the mechanism-chasers, the members who cannot leave the *why* alone. Every hall has a few; every grandmaster was warned about them as an apprentice; and the federation’s attitude is the exasperated tolerance of an institution that knows its case libraries were all, once, some Whyseeker’s disreputable afternoon. The standing joke is that a Whyseeker is a scholar the Assay hasn’t caught yet. The standing truth is that the Guilds’ deepest fear is not that the Whyseekers will fail, but that one of them, someday, will succeed — and the why, once had, will turn out to be something the Procedures were kinder as.
+
+------------------------------------------------------------------------
+
+## The Workbench
+
+Guild hands learn **principles**, not a list of effects they can produce by gesture. A principle is one validated construction operation: prepare a class of reagent, grow a component, fix a spatial anchor, build a power source, teach a material a response. Each application names its inputs, required facilities, permanent Alignment requirement, scale, failure limits, and hours of work.
+
+A device is a sequence of those operations made material. At design, the maker lists the principles required for each function and takes the highest requirement in each Alignment among them. Those dots form that function's **Operating Requirement**. Repeating an operation increases material, time, and scale but does not multiply an identical requirement. Combining differently aligned operations makes a device harder for one person to run, not a permanent claim on the maker who built it.
+
+This is why Guild workshops look like infrastructure rather than spellcasting theaters. A Tinkerer might spend one hour conditioning an orichalcum cell, three fixing its harmonic response, and two integrating it with a waystone. A Sawbone might spend the afternoon refining a dose and the night growing the tissue that delivers it. Only after the hours are complete does anyone have an encounter-ready trap, tonic, prosthesis, engine, or route key.
+
+Completed devices state who can operate them, which Alignment dots operation requires, what action that takes, whether the function is one-use or persistent, what it consumes, how it fails, and what maintenance it needs. A one-use function spends the operator's dots for an effect that ends within the round. A persistent function commits them while it runs; a trap commits the priming hand's dots until it triggers or is disarmed. Another person can use the result without knowing how it was made if they can meet that requirement. The creator's Alignment is not tied to every object that leaves the bench. Reliability is Superscience's great advantage; operator capacity, physical inputs, exposed infrastructure, maintenance, and time are its price.
 
 ------------------------------------------------------------------------
 
@@ -114,13 +126,13 @@ Speech: work is **marked** or **unmarked**, and the second word does the work of
 
 A Guild character should name their home hall, master, journeyman mark, current Walk question, and one procedure they refuse to perform. Describe the visible repair on your favorite tool and the mistake that caused it. Decide whether you believe neutrality protects the work from politics or merely hides which politics already own it.
 
-Tinkerers should define a Prototype Device, the Principle it demonstrates, and the material or infrastructure it requires. Sawbones should define the contents of the bag, the case that still wakes them, and where they draw the line between treatment and redesign. Both should name a rival whose work they respect.
+Tinkerers should define their starting devices, the principles each combines, their Operating Requirements, and the material or infrastructure they require. Sawbones should define the prepared contents of the bag, the principles used to fabricate them, the case that still wakes them, and where they draw the line between treatment and redesign. Both should name a rival whose work they respect.
 
 ## GM Toolkit
 
 Guilds can certify work, mobilize specialist labor, provide tools and case libraries, extend credit through marks, and make repairs other factions cannot. They cannot ignore an unsafe procedure bearing their mark, move major infrastructure without political consequences, or remain neutral when both sides require exclusive control of the same craft.
 
-Technical problems should have requirements rather than single-roll answers: diagnosis, materials, workspace, time, and a consequence for haste. Let a skilled character solve the engineering or medicine; place the drama in obtaining what the solution needs and deciding who receives it first.
+Technical problems should have requirements rather than single-roll answers: diagnosis, principles, permanent Alignment, an operator able to supply the device, materials, workspace, hours, and a consequence for unsafe substitution. Let a skilled character solve the engineering or medicine; place the drama in obtaining what the solution needs, deciding whose Alignment can remain committed to a persistent function, and choosing who receives the result first.
 
 **GM questions:** Whose mark makes this dangerous work legitimate? What shortcut has become local practice? What discovery would threaten a Guild’s reason to exist?
 

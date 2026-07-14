@@ -1,8 +1,6 @@
 # Class Power Lists, Volume 3
 
-**Power format:** **Name** — PL # — Requires Alignment # — tags — effect. Mixed requirements join Alignments with a plus sign. The required dots total the PL; PL 0 powers require none. Using a power does not erase it from the known list.
-
-This volume completes the three classes sampled in *Class Archetype Overview*: the Captain, the Bounty Hunter, and the Shapeshifter. The marquee powers printed in that overview are reproduced here unchanged and sit inside the full fifteen-power lists. With Volume 3 written, the temporary starting exception under the overview's Table Notes no longer applies: these three classes learn their starting powers from their archetype's PL 0 and PL 1 entries like every other class, and cross-train into sibling archetypes from level 2 under the standard rule.
+> **Legacy conversion bank:** The entries below preserve names, Alignment footprints, and effect ideas, but they are not playable under the five-source rules as written. Convert Captain entries to Legend stances or exploits, fold Bounty Hunter entries into broad Psionic techniques and result ladders, and replace Shapeshifter powers with creature contracts and deeper form clauses. Sibling cross-training and universal activation are obsolete.
 
 Several archetypes command **Troops**; the troop profile (Durability / Attack / Defend / Move), morale, routing, and re-muster rules live in *Combat and Wounds*. Moving or attacking with one troop costs 1 Momentum unless a power says otherwise, and a power that deploys a troop does not grant it a free action.
 
@@ -176,7 +174,7 @@ The Captain's powers are commands, and most spend on the muster. **Prepared** po
 
 ## Bounty Hunter
 
-Every Bounty Hunter begins with a current writ and manifests a **Mind Blade** or **Mind Gun** tuned to pursuit. A creature becomes the Hunter's **quarry** only when a power such as *Take the Name* designates it; being someone's quarry is a specific, powered relationship, not a free universal bonus. Powers marked **Psychic** are mental supernatural effects and can be suppressed by anti-psychic wards.
+Every Bounty Hunter begins with a current writ and the **Mind Weapon** class feature, manifested as a Mind Blade or Mind Gun tuned to pursuit without consuming a selection, Alignment, or a d100 roll. A creature becomes the Hunter's **quarry** only when a converted technique such as *Take the Name* designates it; being someone's quarry is a specific, powered relationship, not a free universal bonus. Powers marked **Psychic** are mental supernatural effects and can be suppressed by anti-psychic wards.
 
 ### The Wake-Reader
 

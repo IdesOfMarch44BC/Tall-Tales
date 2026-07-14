@@ -18,7 +18,7 @@ One further fact shaped the Houses, and it is the fact that shaped everything el
 
 ## The Blood
 
-Every capability the Houses field runs in the body, and it runs *visibly*. This is the meaning of the word **Dynast**, and the Concord of Seats holds it as definitional: a Dynast is a member of the blood in whom the lineage’s alteration has expressed — in the flesh, on the surface, beyond concealment or dispute. A House cousin with quick reflexes and ordinary skin is not a Dynast, whatever the reflexes owe to the lineage. The plate, the scales, the pallor, the metal: *the gift is the mark, and the mark is the gift.* The Houses did not choose this standard out of vanity. They chose it because their entire social position rests on being exactly what they appear to be, and a hidden gift is, to House thinking, indistinguishable from a lie the body tells.
+Every hereditary capability the Houses field runs in the body, and it runs *visibly*. This is the meaning of the word **Dynast**, and the Concord of Seats holds it as definitional: a Dynast is a member of the blood in whom the lineage’s alteration has expressed — in the flesh, on the surface, beyond concealment or dispute. A House cousin with quick reflexes and ordinary skin is not a Dynast, whatever the reflexes owe to the lineage. The plate, the scales, the pallor, the metal: *the gift is the mark, and the mark is the gift.* The Houses did not choose this standard out of vanity. They chose it because their entire social position rests on being exactly what they appear to be, and a hidden gift is, to House thinking, indistinguishable from a lie the body tells.
 
 Expression is the central uncertainty of House life. The blood is not arithmetic: two strongly expressed parents may produce an unexpressed child; a gift may skip a generation and return doubled; a lineage’s expression may drift across centuries into forms the House’s own archives struggle to recognize. Every House maintains its genealogies — the **blood-book** — with a rigor that borders on the devotional, and every House knows the genealogies predict less than they appear to.
 
@@ -41,6 +41,22 @@ From this uncertainty flows the practice outsiders find hardest to sit with: the
 - **Contested lines**, whose origin is argued — by scholars, by the Lions, sometimes bitterly by the House itself.
 
 The taxonomy matters because the Lions have made it matter. Hard doctrine reads a bloodline by its source: a Covenant line is grace inherited; a Bargain line is a debt walking around on legs; a Forged line is presumption; a Marked line is a wound that breeds. The mainline officially judges Houses by conduct rather than origin — and unofficially, every House envoy knows which chapters to visit with which genealogists’ letters in hand.
+
+------------------------------------------------------------------------
+
+## The Patrons Behind the Blood
+
+The visible alteration is the first inheritance. A Dynast's practiced power comes from the second: **the House contracts**—and every power learned from those contracts writes another permanent fact onto the body.
+
+Every long-lived House has accumulated a court of mighty nonhuman powers around its blood—a founding covenant's surviving witness, a sovereign of the demesne, an ancestor who has become more than a dead person, a celestial guarantor, a great frame-intelligence, a river mind, or an entity for which the House uses a title instead of a category. The blood does not automatically command these beings. It makes an introduction they have reasons to honor.
+
+A young Dynast is presented, bargains personally, and leaves with terms that may resemble an ancestor's without ever being identical. The patron relationship is inherited access and a class feature, not one power selected from a list. The contract records the entity's Need, the Dynast's obligations, the visible Tell of its active attention, an Alignment Bond, and what constitutes Breach. It opens a coherent gift list equivalent to a Legend, Magic, Psionics, or Superscience list. The Dynast then learns individual gifts from that list through advancement, service, negotiation, and discovery. To call on them, the Dynast stakes the patron's Bond and follows each gift's borrowed procedure.
+
+Every learned gift has a permanent **Manifestation**. The first Corvara gift might sharpen the canines; the next hollows the cheeks or turns reflected eyes red. An Ostrogar's new protection may add a plate, a Ferrant working another run of metal, an Ardenne promise another script-bearing surface. The manifestation is physical, tangible, and present even when the patron is dismissed, displeased, or blocked by a ward. It is not the patron's Tell: the Tell shows who is paying attention now, while the body shows every power to which it has ever been made answerable.
+
+This is the Houses' best-kept non-secret. Everyone knows that covenants and bargains sit somewhere in the genealogies; the Houses encourage outsiders to imagine that an ancestor settled every term forever. In practice, the entities are still present, still interested, and fully capable of preferring one cousin to another. The blood-books therefore record more than births. In their sealed columns they record audiences, concessions, silences, breaches, and the terrifying occasions on which a patron answered an unexpressed child.
+
+The distinction gives a GM two levers. A Corvara's night sight, an Ostrogar's inherited plate, or an Ophara's gills can be a bodily Trait of baseline expression. A supernatural act beyond that baseline is an individual gift from a named patron with terms, and its Manifestation deepens the visible alteration. Taking away a patron's favor suspends access but does not erase what the bargain made of the body; injuring the bloodline does not make the patron mindless. A Dynast lives at their intersection.
 
 ------------------------------------------------------------------------
 
@@ -228,16 +244,16 @@ The origin is documented as no other House’s is: the covenant of the first Ard
 
 ## Player Toolkit
 
-A House character should name lineage, demesne, household role, visible sign of the gift, and the relative who taught them how to suppress or express it. Decide what the House gives its dependents in exchange for obedience and which family obligation you consider legitimate. Name one sworn family that sees you as a person rather than a title and one relative whose approval still matters against your judgment.
+A House character should name lineage, demesne, household role, baseline expression, and the relative who taught them how to live visibly with it. Decide what the House gives its dependents in exchange for obedience and which family obligation you consider legitimate. Name one sworn family that sees you as a person rather than a title and one relative whose approval still matters against your judgment.
 
-A Dynast should describe how Manifestation changes posture, appetite, voice, senses, and social behavior—not only combat statistics. Decide who has seen the fully expressed form, what calms it, and what rumor outsiders repeat about your blood that is false.
+A Dynast should describe how expression changes posture, appetite, voice, senses, and social behavior—not only combat statistics. For each patron, name the entity, Bond, Terms, Need, active Tell, available gift list, and Breach. For every learned gift, record its permanent physical Manifestation. Decide which contract the House arranged, which one it disapproves of, and what rumor outsiders repeat about your blood that is false.
 
 ## GM Toolkit
 
-Houses can provide sanctuary, retainers, local law, hereditary expertise, old records, and resources concentrated over generations. They cannot act outside their demesnes as if blood were universal authority, make lineage private once publicly expressed, or keep dependents loyal without fulfilling reciprocal obligations.
+Houses can provide sanctuary, retainers, local law, hereditary expertise, introductions to patrons, old records, and resources concentrated over generations. They cannot act outside their demesnes as if blood were universal authority, force a mighty entity to renew an ancestor's terms, make lineage private once publicly expressed, or keep dependents loyal without fulfilling reciprocal obligations.
 
 Run a demesne through three voices: the House’s account, a sworn family’s account, and an outsider’s account. None should be wholly false. House horror works best when affection and exploitation share a table, not when every noble is secretly a monster.
 
-**GM questions:** What does this household owe that it calls generosity? Who would inherit if the blood chose unexpectedly? Which family secret is actually protecting someone outside the family?
+**GM questions:** What does this household owe that it calls generosity? Which patron prefers the wrong heir? Who would inherit if the blood chose unexpectedly? Which family secret is actually protecting someone outside the family?
 
 ------------------------------------------------------------------------

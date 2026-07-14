@@ -28,6 +28,24 @@ The art’s dangers are the mirror of its method. **Going over**: a Hunter too d
 
 ------------------------------------------------------------------------
 
+## The Mind Weapon
+
+Certification fixes one psychic expression beneath the variable arts of the Read: the **Mind Weapon**, shaped as blade or gun according to the Hunter's intent. It is not one of the broad techniques a Hunter chooses to learn and does not approach the Hundredth Point. A trained Hunter can manifest it without spending Alignment or rolling for control, needs no ammunition, and cannot be conventionally disarmed. Anti-psychic suppression can dismiss it, but cannot make the training cease to be part of the Hunter.
+
+The benches teach that this stability matters. A writ-bearing Hunter must remain armed when stripped, stranded, or invited into a room whose host collects revolvers at the door; the weapon is the profession's last guarantee that paper is backed by a person. Its appearance is diagnostic. Some look like Registry tools polished past reality, some like the weapon that first frightened the Hunter, and some like an argument the waking world has never manufactured.
+
+------------------------------------------------------------------------
+
+## The Hunter's Push
+
+The Read is the trade's defining Psionic technique, not its only one. A Hunter cultivates whatever ordinary capacity closes the case—attention until it reads shed thought, a draw until intention reaches the target ahead of the hand, a demand until conviction enters another mind, pursuit until distance becomes an inconvenience. The effect may look like perfect professional practice right up to the point no body could have done it.
+
+Mechanically, Hunters use the same Hundredth Point as Mentalists. Spend the technique's Alignment dots, choose Push from zero up to level (maximum 20), and roll d100 plus Push. A result closer to 100 is stronger; exactly 100 is perfect control. A total over 100 is an Overrun.
+
+The benches call Overrun **going over**, and their protocols make it concrete. A Read may catch the wrong wake or refuse to release the right one. A persuasive snare may seize every listener. A perfect draw may select a threat the Hunter had not consciously chosen. Each broad technique carries its own printed Overrun, and partner-watch exists to notice when the practitioner is no longer the only will deciding where the power goes.
+
+------------------------------------------------------------------------
+
 ## The Writ
 
 The writ is a physical instrument, and the frontier can read one at arm’s length.
@@ -138,11 +156,11 @@ The registry’s paper is genuinely clean — Maren is her House’s child in th
 
 A Registry character should define the first quarry they Read, the examiner who certified them, and the rule they will not break even for clean paper. For every active writ, record the exact name, alleged act, jurisdiction, required disposition, proof needed for payment, and voiding condition. Ask who would recognize your bench seal, who believes your certification is merely respectable predation, and what habit you brought home from a quarry once.
 
-A Bounty Hunter’s Marked Prey should become a person in play. Tell the GM what sensory or emotional signs your Read takes, how your partner knows when you are going too deep, and whether your mind blade or mind gun resembles a tool, a memory, or something no mundane craft could make.
+A Bounty Hunter's active quarry should become a person in play. Tell the GM what sensory or emotional signs your Read takes, which broad techniques grew from your professional skills, how your partner knows when you are going too deep, and whether your Mind Weapon resembles a tool, a memory, or something no mundane craft could make.
 
 ## GM Toolkit
 
-A writ is useful when its target is findable but its justice is not simple. Prepare the issuer’s evidence, the quarry’s account, the jurisdictional edge, and one fact that could void or amend the paper. The Read reveals habits, pressure, and shed selfhood; it does not grant unrestricted access to thoughts or solve an investigation without choices.
+A writ is useful when its target is findable but its justice is not simple. Prepare the issuer's evidence, the quarry's account, the jurisdictional edge, and one fact that could void or amend the paper. The Read reveals habits, pressure, and shed selfhood; it does not grant unrestricted access to thoughts or solve an investigation without choices. On an Overrun, let the printed technique become dangerously excessive rather than merely fail.
 
 Registries can certify names, escrow rewards, arbitrate terms, and make professional pursuit safer. They cannot enforce beyond every boundary, guarantee an issuer’s truth, or admit easily that valid procedure produced an unjust hunt.
 

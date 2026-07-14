@@ -1,6 +1,6 @@
 ﻿# Class Power Lists, Volume 2
 
-**Power format:** **Name** — PL # — Requires Alignment # — tags — effect. Mixed requirements join Alignments with a plus sign. The required dots total the PL; PL 0 powers require none. Using a power does not erase it from the known list.
+> **Legacy conversion bank:** The entries below preserve names, Alignment footprints, and effect ideas, but they are not playable under the five-source rules as written. Fold Mentalist entries into broad Psionic techniques and result ladders; do not treat the old Mind Blade grouping as a current Mentalist class feature, because Mind Weapon now belongs to the Bounty Hunter. Convert Tinkerer and Sawbone entries into Superscience construction principles or fabricated devices. The universal activation assumption is obsolete.
 
 ## Mentalist
 

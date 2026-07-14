@@ -30,6 +30,18 @@ Two facts bind all three traditions. The first is where the vigor comes from: th
 
 ------------------------------------------------------------------------
 
+## The Form Contracts
+
+The hearth metaphor is literal in play: every usable shape is a contract with a **specific creature**, not a species template learned in the abstract. The creature may surrender a heart, lend a pelt, teach its shape through a season of companionship, or consent through another rite its kind understands. The Shapeshifter records what it needs, what was promised, how its presence shows through the borrowed body, and what breaks the agreement.
+
+Opening the contract stakes its listed Alignment Bond, whose dots total the contract's PL. Those dots remain with the guest for as long as the form is worn. The body changes; the relationship does not disappear into a resource transaction. On an ordinary return the stake can refresh when the Shapeshifter's side next takes Momentum. On a breach, the creature may withhold the shape, keep the Bond until restitution, alter the Tell, or demand a consequence named when the contract was made.
+
+Player-character contracts are ordinarily made with relatively weak creatures: animals, minor spirits, local monsters, and individual people or likeness-spirits in the face-takers' careful practice. Their compact form profiles replace movement, defenses, thresholds, natural attacks, senses, and a few bodily adaptations—not primary ability scores, Hit Dice, or an entire monster sheet. The great sovereigns are not shapes to collect. A mighty entity that grants a suite of gifts is the scale of a Dynast's patron, and the network treats any Warden claiming to wear one with immediate concern.
+
+For each form, write **Creature, PL, Bond, Terms, Need, Tell, instinct, Breach, release, and form profile**. That record gives the GM a person to bring back into play and gives the player a transformation that means more than choosing the best movement mode.
+
+------------------------------------------------------------------------
+
 ## The Kept
 
 The Wild keeps people. It is what the boundary has always done with those who belong to it more than they belong back here, and the network’s word for its own lost is exact, gentle, and terrible: not *fallen*, not *turned* — **kept**.
@@ -136,7 +148,7 @@ Texture, briefly, because the tradition wears little: the iron-free kit; the pel
 
 ## Player Toolkit
 
-A Warden character should name their home circuit, the elder who first vouched for them, one public danger-glyph they use often, and one boundary they crossed before they understood it. A Shapeshifter should name every form as a specific relationship: what creature granted or lost the heart, what appetite comes with the shape, and what behavior tells companions the form is lingering too long.
+A Warden character should name their home circuit, the elder who first vouched for them, one public danger-glyph they use often, and one boundary they crossed before they understood it. A Shapeshifter should complete the contract record for every form: what creature granted the shape, its Bond and Terms, what it Needs, which instinct comes with the body, and what behavior tells companions the guest is lingering too long.
 
 Choose one civilization custom you find comforting, one you find incomprehensible, and one piece of Warden doctrine you interpret differently from your elder. If you are a face-taker, write the code governing consent, duration, and use of another person’s face before the first session.
 
@@ -144,7 +156,7 @@ Choose one civilization custom you find comforting, one you find incomprehensibl
 
 Wardens can provide route knowledge, assessments, relays, safe caches, boundary etiquette, and introductions to powers no contract reaches. They cannot command the Wild, promise that a known route remains known, or explain every judgment to clients who lack the necessary context.
 
-Portray the Wild as attention and relationship, not generic wilderness hostility. Give each territory a pattern, a courtesy, and a consequence. Telegraph a boundary before punishing its breach. When a sovereign refuses, make the refusal intelligible even when its reasoning is not human.
+Portray the Wild as attention and relationship, not generic wilderness hostility. Give each territory and contracted creature a pattern, a courtesy, and a consequence. Telegraph Terms and Breach before collecting on them. A form's creature should occasionally ask, visit, change, or need something. When a sovereign refuses, make the refusal intelligible even when its reasoning is not human.
 
 **GM questions:** What is this ground tolerating, and why? Which old courtesy has become dangerous to keep? What has the Warden noticed but not yet found words for?
 
